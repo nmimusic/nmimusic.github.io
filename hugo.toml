@@ -1,0 +1,93 @@
+baseURL = 'https://nmimusic.github.io/'
+languageCode = 'ja-jp'
+languageName = 'Japanese'
+defaultContentLanguage = 'ja'
+hasCJKLanguage = true
+title = '中村音楽工業'
+theme = 'universal'
+copyright = '(C) 2023-2024 NAKAMURA MUSIC INDUSTRIES'
+
+[params]
+	viewMorePostLink = ["/news/"]
+	author = "NAKAMURA MUSICAL INDUSTRIES"
+	defaultKeywords = ["中村音楽工業", "同人音楽"]
+	mainSections = ["news", "releases", "creators", "support"]
+
+	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト</p>"
+	copyright = "Copyright (C) 2023-2024 NAKAMURA MUSIC INDUSTRIES (NMI) all rights reserved."
+
+	# Format dates with Go's time formatting
+	date_format = "2006-01-02"
+
+	dropdown_mouse_over = false
+
+	disabled_logo = false
+	logo_text = "NakamuraMusic"
+
+	logo = "/img/logo.png"
+	logo_small = "/img/logo.png"
+
+[params.widgets]
+	categories = true
+	tags = true
+	search = true
+
+[params.carouselHomepage]
+	enable = true
+	auto_play = true
+	slide_speed = 2000
+	pagination_speed = 1000
+
+[params.recent_posts]
+	enable = true
+	title = "news"
+	hide_summary = false
+
+[params.footer.recent_posts]
+    enable = false
+
+[menu]
+[[menu.main]]
+	name       = "ABOUT"
+	url        = "/about/"
+	weight     = 1
+
+[[menu.main]]
+	name       = "NEWS"
+	url        = "/news/"
+	weight     = 2
+
+[[menu.main]]
+	name       = "CREATORS"
+	url        = "/creators/"
+	weight     = 3
+
+[[menu.main]]
+	name       = "RELEASES"
+	url        = "/releases/"
+	weight     = 4
+
+[[menu.main]]
+	name       = "SUPPORT"
+	url        = "/support/"
+	weight     = 5
+
+[[menu.main]]
+	name       = "FAQ"
+	url        = "/faq/"
+	weight     = 6
+
+[[menu.main]]
+	name       = "LINKS"
+	url        = "/links/"
+	weight     = 7
+
+[[menu.main]]
+	name       = "CONTACT"
+	url        = "/contact/"
+	weight     = 8
+	
+[[menu.main]]
+	name       = "POLICIES"
+	url        = "/policies/"
+	weight     = 9
