@@ -10,8 +10,8 @@ title: LINKS
 - [DebISO](https://github.com/nmimusic/debiso)
 
 # NMIのSNSアカウント
-- [公式Misskey @radionewjapan@misskey.io](https://misskey.io/nmimusic)
-- [Linux/GNU/X情報 @njblinux@mastodon.social](https://mastodon.social/njblinux)
+- [公式Misskey @radionewjapan@misskey.io](https://misskey.io/@radionewjapan)
+- [Linux/GNU/X情報 @njblinux@mastodon.social](https://mastodon.social/@njblinux)
 - [GitHub @nmimusic](https://github.com/nmimusic)
 
 # ソフトハウス様
