@@ -14,7 +14,7 @@ copyright = '(C) 2023-2024 NAKAMURA MUSIC INDUSTRIES'
 	mainSections = ["news", "releases", "creators", "support"]
 
 	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト</p>"
-	copyright = "Copyright (C) 2023-2024 NAKAMURA MUSIC INDUSTRIES (NMI) all rights reserved."
+	copyright = "Copyright (C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved."
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
