@@ -9,7 +9,7 @@ tags:
 - エヌ・ジェー・ビー音盤
 - Ruritania
 comments: false
-shouMeta: true
+showMeta: true
 showActions: false
 ---
 

@@ -10,7 +10,7 @@ tags:
 - CD-DA
 - エヌ・ジェー・ビー音盤
 comments: false
-shouMeta: true
+showMeta: true
 showActions: false
 ---
 

@@ -9,7 +9,7 @@ tags:
 - ゲーム
 - Ruritania
 comments: false
-shouMeta: true
+showMeta: true
 showActions: false
 ---
 

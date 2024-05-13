@@ -5,7 +5,7 @@ draft: false
 categories:
 - Support
 comments: false
-shouMeta: true
+showMeta: true
 showActions: false
 ---
 
