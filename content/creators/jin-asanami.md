@@ -6,7 +6,7 @@ categories:
 - Creators
 tags:
 - Composer
-- エヌ・ジェー・ビー音盤
+- ナカムラミュージックレコーズ
 - Ruritania
 comments: false
 showMeta: true
@@ -22,14 +22,14 @@ showActions: false
 ---
 
 ## 所属レーベル
-- [エヌ・ジェー・ビー音盤](/tags/エヌジェービー音盤)
+- [ナカムラミュージックレコーズ](/tags/ナカムラミュージックレコーズ)
 - [Ruritania](/tags/ruritania)（音楽、脚本、プログラミング）
 
 ---
 
 ## ウェブサイト
 - [公式ウェブサイト](https://hayatehay.github.io)
-- [Misskey(io)](https://misskey.io/@hayatehay)
 - [Misskey(9ineverse)](https://9ineverse.com/@hayatehay)
+- [Misskey(io)](https://misskey.io/@hayatehay)
 - [Mastodon(Fedibird)](https://fedibird.com/@hayatehay)
 - [YouTube](https://youtube.com/@hayatehay)

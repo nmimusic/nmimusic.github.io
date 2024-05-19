@@ -16,6 +16,8 @@ title: "NMI商標ガイドライン"
 
 2024年4月12日 第3、4条の文を修正
 
+2024年5月19日 「エヌ・ジェー・ビー音盤」「NJB Records」を「ナカムラミュージックレコーズ」「Nakamura Music Records」に変更
+
 ---
 
 # 第1条
@@ -28,8 +30,8 @@ title: "NMI商標ガイドライン"
 - NMI
 - 中村ジュークボックス
 - NAKA-MURA JUKEBOX
-- エヌ・ジェー・ビー音盤
-- NJB Records
+- ナカムラミュージックレコーズ
+- Nakamura Music Records
 - Ruritania
 - Kamuriki Linux
 - Univalent Versatile Environment
