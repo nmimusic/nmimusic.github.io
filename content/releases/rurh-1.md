@@ -7,7 +7,7 @@ categories:
 - Releases
 tags:
 - ゲーム
-- Ruritania
+- ルリタニアミュージックエンターテインメント
 comments: false
 showMeta: true
 showActions: false
@@ -16,7 +16,7 @@ showActions: false
 {{< figure src="/img/discography/nowprinting.png" alt="RURH-1" position="left" width="240" height="240" >}}
 （DVD-ROM 12cm）**発売日未定**
 
-制作：ルリタニアミュージックエンタテインメント / 品番：RURH-1 / 価格：3,800円（税込み）
+制作：ルリタニアミュージックエンターテインメント / 品番：RURH-1 / 価格：3,800円（税込み）
 
 <b><font color=#ff0000>※18歳未満購入禁止</font></b>
 

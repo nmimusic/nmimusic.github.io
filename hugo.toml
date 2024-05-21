@@ -10,10 +10,10 @@ copyright = '(C) 2023-2024 NAKAMURA MUSIC INDUSTRIES'
 [params]
 	viewMorePostLink = ["/news/"]
 	author = "NAKAMURA MUSICAL INDUSTRIES"
-	defaultKeywords = ["中村音楽工業", "同人音楽"]
+	defaultKeywords = ["中村音楽工業", "中村音工", "NMI", "同人音楽"]
 	mainSections = ["news", "releases", "creators", "support"]
 
-	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト</p>"
+	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト。音楽、ゲーム、ドラマCDなどを取り扱う。</p>"
 	copyright = "Copyright (C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved."
 
 	# Format dates with Go's time formatting
