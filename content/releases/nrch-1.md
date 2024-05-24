@@ -1,7 +1,7 @@
 ---
 title: '麻浪迅「月影」'
 date: 2024-03-25T12:05:51+09:00
-banner: /img/discography/nj/njch-1.png
+banner: /img/discography/nr/nrch-1.png
 draft: false
 categories:
 - Releases
@@ -19,7 +19,7 @@ showActions: false
 
 発売元：ナカムラミュージックレコーズ / 品番：NRCH-1 / 価格：1,000円（税込み）
 
-麻浪迅のデビュー盤。ジャズのようなスカのような「月影」、ピアノ主体の「egret」他3曲を収録。<br>
+麻浪迅のデビュー盤・1st EP。ジャズのようなスカのような「月影」、ピアノ主体の「egret」他3曲を収録。<br>
 通常のCDプレイヤーで再生できるCD-DA領域と、全楽曲のハイレゾ(48kHz/24bit)FLACを収録したエクストラ領域の豪華2本立て。<br>
 2チャンネルスピーカーでサラウンドを実現する「Qサウンド」処理済み。
 
@@ -33,3 +33,4 @@ showActions: false
 All songs are composed and arranged by Jin Asanami.
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
+
