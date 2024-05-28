@@ -7,7 +7,7 @@ categories:
 tags:
 - Composer
 - ナカムラミュージックレコーズ
-- Ruritania
+- ルリタニアミュージックエンターテインメント
 comments: false
 showMeta: true
 showActions: false
