@@ -5,13 +5,13 @@ defaultContentLanguage = 'ja'
 hasCJKLanguage = true
 title = '中村音楽工業'
 theme = 'universal'
-copyright = '(C) 2023-2024 NAKAMURA MUSIC INDUSTRIES'
+copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 
 [params]
 	viewMorePostLink = ["/news/"]
 	author = "NAKAMURA MUSICAL INDUSTRIES"
 	defaultKeywords = ["中村音楽工業", "中村音工", "NMI", "同人音楽"]
-	mainSections = ["news", "releases", "creators", "support"]
+	mainSections = ["news", "nmrecords", "ruritania", "linuxgnux", "creators", "support"]
 
 	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト。音楽、ゲーム、ドラマCDなどを取り扱う。</p>"
 	copyright = "Copyright (C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved."
@@ -64,18 +64,45 @@ copyright = '(C) 2023-2024 NAKAMURA MUSIC INDUSTRIES'
 
 [[menu.main]]
 	name       = "RELEASES"
-	url        = "/releases/"
+	identifier = "menu.releases"
+	url        = ""
 	weight     = 4
+
+[[menu.main]]
+	name       = "Nakamura Music Records"
+	url        = "/nmrecords/"
+	weight     = 1
+	parent     = "menu.releases"
+
+[[menu.main]]
+	name       = "Ruritania Music Entertainment"
+	url        = "/ruritania/"
+	weight     = 2
+	parent     = "menu.releases"
+
+[[menu.main]]
+	name       = "Linux/GNU/X"
+	url        = "/linuxgnux/"
+	weight     = 3
+	parent     = "menu.releases"
+
+[[menu.main]]
+	name       = "USER SUPPORT"
+	url        = ""
+	identifier = "menu.support"
+	weight     = 5
 
 [[menu.main]]
 	name       = "SUPPORT"
 	url        = "/support/"
-	weight     = 5
+	weight     = 1
+	parent     = "menu.support"
 
 [[menu.main]]
 	name       = "FAQ"
 	url        = "/faq/"
-	weight     = 6
+	weight     = 2
+	parent     = "menu.support"
 
 [[menu.main]]
 	name       = "LINKS"
