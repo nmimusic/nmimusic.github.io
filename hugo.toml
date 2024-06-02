@@ -13,7 +13,7 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	defaultKeywords = ["中村音楽工業", "中村音工", "NMI", "同人音楽"]
 	mainSections = ["news", "nmrecords", "ruritania", "linuxgnux", "creators", "support"]
 
-	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト。音楽、ゲーム、ドラマCDなどを取り扱う。</p>"
+	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト。所属クリエイターのお知らせや新譜の発売情報、ゲーム、イベント出演情報、メディア情報などを掲載。</p>"
 	copyright = "Copyright (C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved."
 
 	# Format dates with Go's time formatting
@@ -81,7 +81,7 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	parent     = "menu.releases"
 
 [[menu.main]]
-	name       = "Linux/GNU/X"
+	name       = "Linux/GNU/X Distros"
 	url        = "/linuxgnux/"
 	weight     = 3
 	parent     = "menu.releases"
