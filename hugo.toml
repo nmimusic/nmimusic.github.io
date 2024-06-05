@@ -11,7 +11,7 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	viewMorePostLink = ["/news/"]
 	author = "NAKAMURA MUSICAL INDUSTRIES"
 	defaultKeywords = ["中村音楽工業", "中村音工", "NMI", "同人音楽"]
-	mainSections = ["news", "nmrecords", "ruritania", "linuxgnux", "creators", "support"]
+	mainSections = ["news", "nakamura", "ruritania", "alislgx", "kamuriki", "creators", "support"]
 
 	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト。所属クリエイターのお知らせや新譜の発売情報、ゲーム、イベント出演情報、メディア情報などを掲載。</p>"
 	copyright = "Copyright (C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved."
@@ -26,6 +26,8 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 
 	logo = "/img/logo.png"
 	logo_small = "/img/logo.png"
+
+	pluralizelisttitles = false
 
 [params.widgets]
 	categories = true
@@ -70,7 +72,7 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 
 [[menu.main]]
 	name       = "Nakamura Music Records"
-	url        = "/nmrecords/"
+	url        = "/nakamura/"
 	weight     = 1
 	parent     = "menu.releases"
 
@@ -81,9 +83,15 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	parent     = "menu.releases"
 
 [[menu.main]]
-	name       = "Linux/GNU/X Distros"
-	url        = "/linuxgnux/"
+	name       = "Alis Linux/GNU/X"
+	url        = "/alislgx/"
 	weight     = 3
+	parent     = "menu.releases"
+
+[[menu.main]]
+	name       = "Kamuriki Linux"
+	url        = "/kamuriki/"
+	weight     = 4
 	parent     = "menu.releases"
 
 [[menu.main]]
