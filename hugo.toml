@@ -95,13 +95,13 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	parent     = "menu.releases"
 
 [[menu.main]]
-	name       = "USER SUPPORT"
+	name       = "SUPPORT"
 	url        = ""
 	identifier = "menu.support"
 	weight     = 5
 
 [[menu.main]]
-	name       = "SUPPORT"
+	name       = "SUPPORT INFORMATIONS"
 	url        = "/support/"
 	weight     = 1
 	parent     = "menu.support"
@@ -111,6 +111,12 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	url        = "/faq/"
 	weight     = 2
 	parent     = "menu.support"
+
+[[menu.main]]
+	name       = "SHOP"
+	identifier = "menu.shop"
+	url        = "https://nmimusic.booth.pm/"
+	weight     = 6
 
 [[menu.main]]
 	name       = "LINKS"

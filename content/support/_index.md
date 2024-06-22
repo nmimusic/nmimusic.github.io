@@ -1,3 +1,3 @@
 ---
-title: 'SUPPORT INFO'
+title: 'SUPPORT INFORMATIONS'
 ---
