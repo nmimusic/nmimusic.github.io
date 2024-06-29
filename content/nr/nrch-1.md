@@ -15,7 +15,7 @@ showActions: false
 ---
 
 {{< figure src="/img/discography/nr/nrch-1.png" alt="NRCH-1" position="left" width="240" height="240" >}}
-（CD-EXTRA 12cm）**2024年7月以降発売予定**<br>
+（CD-EXTRA 12cm）**2024年7月9日発売予定**<br>
 
 発売元：ナカムラミュージックレコーズ / 品番：NRCH-1 / 価格：1,500円（税込み）
 
