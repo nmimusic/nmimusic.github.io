@@ -1,6 +1,6 @@
 ---
-title: 'Kamuriki Linux 3.5'
-date: 2024-02-18T00:39:04+09:00
+title: 'Kamuriki Linux 3.6'
+date: 2024-07-01T00:00:00+09:00
 banner: /img/discography/others/kamu-logo.png
 draft: false
 categories:
@@ -14,10 +14,9 @@ showActions: false
 ---
 
 # 前書き
-この文書はKamuriki Linuxディストリビューションの利用者に、第3.5版(開発コード：Cheetah Rollup 5)での変更点を周知するものである。
+どもども、麻浪迅です。[私が7月1日にCD-EXTRAを出すのはご存知ですか？](/nr/nrch-1)
 
-やぁ！颯だよ！
-何だかんだ言ってKamuriki Linux 3 (Cheetah)の5番目のサービスパックを出した。
+そんなコトはどうでもいいんだ。今回はKamuriki Linux 3.6のリリースノートだ。
 
 # 利用規約
 Kamuriki Linuxのご利用には、EULAへの同意が必要です。
@@ -25,11 +24,11 @@ Kamuriki Linuxのご利用には、EULAへの同意が必要です。
 中村音楽工業 オープンソースソフトウェア エンドユーザーライセンス契約 https://nmimusic.github.io/eula.pdf
 
 # 主な変更点
-カーネル: 6.1.76-1
+カーネル：Realtime 6.1.94-1
 
-- 操作感の改善
+標準の日本語フォントを「梅ゴシック」「梅明朝」に、日本語UIフォントを「VLゴシック」に変更。
 
-[上流での変更点はこちら](https://www.debian.org/News/2024/20240210)
+[上流での変更点はこちら](https://www.debian.org/News/2024/20240629)
 
 # 更新の手順
 環境を最新の状態にする。

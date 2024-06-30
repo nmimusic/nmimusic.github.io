@@ -1,6 +1,6 @@
 ---
 title: '麻浪迅「月影」'
-date: 2024-03-25T12:05:51+09:00
+date: 2024-07-01T00:00:00+09:00
 banner: /img/discography/nr/nrch-1.png
 draft: false
 categories:
@@ -15,6 +15,11 @@ showActions: false
 ---
 
 {{< figure src="/img/discography/nr/nrch-1.png" alt="NRCH-1" position="left" width="240" height="240" >}}
+
+[NMI MUSIC STORE](https://nmimusic.booth.pm/items/5865685)
+
+[体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
+
 （CD-EXTRA 12cm）**2024年7月9日発売予定**<br>
 
 発売元：ナカムラミュージックレコーズ / 品番：NRCH-1 / 価格：1,500円（税込み）
@@ -31,6 +36,3 @@ showActions: false
 - 重なる想い (4:38)
 
 All songs are composed and arranged by Jin Asanami.
-
-[体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
-
