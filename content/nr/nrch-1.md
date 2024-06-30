@@ -1,6 +1,6 @@
 ---
 title: '麻浪迅「月影」'
-date: 2024-07-01T00:00:00+09:00
+date: 2024-06-30T00:00:00+09:00
 banner: /img/discography/nr/nrch-1.png
 draft: false
 categories:
