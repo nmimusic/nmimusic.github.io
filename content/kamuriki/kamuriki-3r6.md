@@ -23,6 +23,10 @@ Kamuriki Linuxのご利用には、EULAへの同意が必要です。
 
 中村音楽工業 オープンソースソフトウェア エンドユーザーライセンス契約 https://nmimusic.github.io/eula.pdf
 
+# ダウンロード
+-[Kamuriki Linux 3.6 Standard Edition](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.6/kamuriki-standard-3.6-amd64.iso)
+-[ソースコード](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.6/kamuriki-3.6.tar.gz)
+
 # 主な変更点
 カーネル：Realtime 6.1.94-1
 
