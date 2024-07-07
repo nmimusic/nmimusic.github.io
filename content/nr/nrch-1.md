@@ -16,13 +16,13 @@ showActions: false
 
 {{< figure src="/img/discography/nr/nrch-1.png" alt="NRCH-1" position="left" width="240" height="240" >}}
 
-[NMI MUSIC STORE](https://nmimusic.booth.pm/items/5865685)（7月1日より予約受付中）
+[NMI MUSIC STORE](https://nmimusic.booth.pm/items/5865685)
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
 
-（CD-EXTRA 12cm）**2024年7月7日発売予定**<br>
+（CD-EXTRA 12cm）**2024年7月7日発売**<br>
 
-発売元：ナカムラミュージックレコーズ / 品番：NRCH-1 / 価格：1,500円（税込み）
+発売元：ナカムラミュージックレコーズ / 品番：NRCH-1 / 価格：1,500円（税込み）/ISDN：[278-4-861670-01-2](https://isdn.jp/2784861670012)
 
 麻浪迅のデビュー盤・1st EP。ジャズのようなスカのような「月影」、ピアノ主体の「egret」他3曲を収録。<br>
 通常のCDプレイヤーで再生できるCD-DA領域と、全楽曲のハイレゾ(48kHz/24bit)FLACを収録したエクストラ領域の豪華2本立て。<br>
