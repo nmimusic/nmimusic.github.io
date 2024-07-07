@@ -15,6 +15,9 @@ title: LINKS
 - [Linux/GNU/X情報 @njblinux@mastodon.social](https://mastodon.social/@njblinux)
 - [GitHub @nmimusic](https://github.com/nmimusic)
 
+# 流通
+- [日本同人誌コード管理センター](https://isdn.jp/)
+
 # ソフトハウス様
 ## あ行
 - [Arch Linux](https://archlinux.org/)
