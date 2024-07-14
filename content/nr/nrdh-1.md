@@ -14,7 +14,7 @@ showMeta: true
 showActions: false
 ---
 
-{{< figure src="/img/discography/nr/nrch-1.png" alt="NRCH-1" position="left" width="240" height="240" >}}
+{{< figure src="/img/discography/nr/nrdh-1.png" alt="NRDH-1" position="left" width="240" height="240" >}}
 
 [NMI MUSIC STORE](https://nmimusic.booth.pm/items/5916436)
 
