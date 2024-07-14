@@ -20,7 +20,7 @@ showActions: false
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/sunrise-colours-second-track-demo)
 
-（ダウンロード限定 FLAC）**2024年7月14日発売**<br>
+（ダウンロード限定 FLAC 44.1kHz/16bit）**2024年7月14日発売**<br>
 
 発売元：ナカムラミュージックレコーズ / 品番：NRDH-1 / 価格：275円（税込み）/ISDN：申請中
 
