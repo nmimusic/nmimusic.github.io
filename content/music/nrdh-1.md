@@ -4,10 +4,10 @@ date: 2024-07-14T12:00:00+09:00
 banner: /img/discography/nr/nrdh-1.png
 draft: false
 categories:
-- Releases
+- Music
 tags:
 - 麻浪迅
-- CD-DA
+- ダウンロード限定
 - ナカムラミュージックレコーズ
 comments: false
 showMeta: true

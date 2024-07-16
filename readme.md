@@ -1,7 +1,3 @@
 # NMI Official Homepage
 ----
-# How to post the article
-```bash
-hugo new news/(yyyymmdd).md
-```
-
+powered by Hugo & [Universal Theme](https://github.com/devcows/hugo-universal-theme/)

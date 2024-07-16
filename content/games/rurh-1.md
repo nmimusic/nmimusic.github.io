@@ -1,12 +1,11 @@
 ---
-title: '浮かぶ雪雲、恋模様。'
-date: 2024-03-25T12:05:51+09:00
+title: 'RURH-1(仮)'
+date: 2024-06-11T12:05:51+09:00
 banner: /img/discography/nowprinting.png
 draft: false
 categories:
-- Releases
+- Games
 tags:
-- ゲーム
 - ルリタニアミュージックエンターテインメント
 comments: false
 showMeta: true
@@ -16,15 +15,11 @@ showActions: false
 {{< figure src="/img/discography/nowprinting.png" alt="RURH-1" position="left" width="240" height="240" >}}
 （DVD-ROM 12cm）**発売日未定**
 
-制作：ルリタニアミュージックエンターテインメント / 品番：RURH-1 / 価格：3,800円（税込み）
+制作：ルリタニアミュージックエンターテインメント / 品番：RURH-1 / 価格：未定
 
 <b><font color=#ff0000>※18歳未満購入禁止</font></b>
 
-<b>あなたに伝えたい、大好きって気持ち。</b>
-
-いつでもない時代の、どこでもないとある町の、ある冬の日の物語。何気ない日常が、やがて宝物になる。
-
-NJBが贈る恋愛ゲームが今、ここに見参。
+<b>詳細は今後掲載</b>
 
 原画：未定
 

@@ -11,7 +11,7 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	viewMorePostLink = ["/news/"]
 	author = "NAKAMURA MUSICAL INDUSTRIES"
 	defaultKeywords = ["中村音楽工業", "中村音工", "NMI", "同人音楽"]
-	mainSections = ["news", "nr", "ru", "alislgx", "kamuriki", "creators", "support"]
+	mainSections = ["news", "music", "games", "lgx", "creators", "support"]
 
 	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト。所属クリエイターのお知らせや新譜の発売情報、ゲーム、イベント出演情報、メディア情報などを掲載。</p>"
 	copyright = "Copyright (C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved."
@@ -22,7 +22,7 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	dropdown_mouse_over = false
 
 	disabled_logo = false
-	logo_text = "NakamuraMusic"
+	logo_text = "NMI Music"
 
 	logo = "/img/logo.png"
 	logo_small = "/img/logo.png"
@@ -40,13 +40,28 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	slide_speed = 2000
 	pagination_speed = 1000
 
-[params.recent_posts]
+[params.recent_news]
 	enable = true
 	title = "news"
 	hide_summary = false
 
+[params.recent_music]
+	enable = true
+	title = "music"
+	hide_summary = false
+
+[params.recent_games]
+	enable = true
+	title = "games"
+	hide_summary = false
+
+[params.recent_lgx]
+	enable = true
+	title = "linux/gnu/x distros"
+	hide_summary = false
+
 [params.footer.recent_posts]
-    enable = false
+    enable = true
 
 [menu]
 [[menu.main]]
@@ -71,27 +86,21 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	weight     = 4
 
 [[menu.main]]
-	name       = "Nakamura Music Records"
-	url        = "/nr/"
+	name       = "Music"
+	url        = "/music/"
 	weight     = 1
 	parent     = "menu.releases"
 
 [[menu.main]]
-	name       = "Ruritania Music Entertainment"
-	url        = "/ru/"
+	name       = "Games"
+	url        = "/games/"
 	weight     = 2
 	parent     = "menu.releases"
 
 [[menu.main]]
-	name       = "Alis Linux/GNU/X"
-	url        = "/alislgx/"
+	name       = "Linux/GNU/X"
+	url        = "/lgx/"
 	weight     = 3
-	parent     = "menu.releases"
-
-[[menu.main]]
-	name       = "Kamuriki Linux"
-	url        = "/kamuriki/"
-	weight     = 4
 	parent     = "menu.releases"
 
 [[menu.main]]

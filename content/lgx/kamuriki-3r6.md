@@ -4,7 +4,7 @@ date: 2024-07-01T00:00:00+09:00
 banner: /img/discography/others/kamu-logo.png
 draft: false
 categories:
-- releases
+- Linux
 tags:
 - KamurikiLinux
 - リリースノート

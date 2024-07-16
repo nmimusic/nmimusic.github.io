@@ -1,3 +1,0 @@
----
-title: 'Ruritania Music Entertainment'
----
