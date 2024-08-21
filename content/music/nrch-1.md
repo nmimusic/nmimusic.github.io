@@ -16,9 +16,9 @@ showActions: false
 
 {{< figure src="/img/discography/nr/nrch-1.png" alt="NRCH-1" position="left" width="240" height="240" >}}
 
-**CD-DA**
--[NMI MUSIC STORE](https://nmimusic.booth.pm/items/5865685)
--[メロンブックス通販](https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472)もしくは全国の店舗
+[NMI MUSIC STORE](https://nmimusic.booth.pm/items/5865685)
+
+[メロンブックス通販](https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472)もしくは全国の店舗
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
 
