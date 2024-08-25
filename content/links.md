@@ -13,11 +13,13 @@ title: LINKS
 - [公式Misskey @nmimusic@misskey.design](https://misskey.design/@nmimusic)
 - [公式Bluesky @nmimusic.bsky.social](https://bsky.app/profile/nmimusic.bsky.social)
 - [Linux/GNU/X情報 @njblinux@mastodon.social](https://mastodon.social/@njblinux)
+- [YouTube NMIチャンネル](https://www.youtube.com/@nmi_music_official)
 - [GitHub @nmimusic](https://github.com/nmimusic)
 
 # 流通
 - [日本同人誌コード管理センター](https://isdn.jp/)
 - [メロンブックス](https://melonbooks.co.jp/)
+    - [ナカムラミュージックレコーズ](https://www.melonbooks.co.jp/circle/index.php?circle_id=67559)
 
 # ソフトハウス様
 ## あ行
@@ -26,23 +28,23 @@ title: LINKS
 - [Ablaze](https://ablaze.one)
 - [アリスソフト](http://www.alicesoft.com/)
 - [Alma Linux](https://almalinux.org/ja/)
+- [イープロダクツ](http://www.product.co.jp/)
 - [Ubuntu](https://jp.ubuntu.com/)
 - [エコールソフトウェア](https://e56.info)
 - [Escu:de](https://www.escude.co.jp/)
 - [OpenELA](https://openela.org)
 - [open.Yellow.os](https://openyellwos.com)
-- [Oracle](https://www.oracle.com/jp/)
 
 ## か行
 - [カノニカル](https://canonical.com/)
-- [KISS](https://njb-fm.github.io/img/banner/KISSbanner.jpg)
+- [KISS](https://kisskiss.tv/)
 - [CandySoft](http://www.candysoft.jp)
 - [Chromium](https://www.chromium.org/chromium-projects/)
 - [ケロQ](http://www.keroq.co.jp/)
 
 ## さ行
-- [XUSE](http://www.xuse.co.jp/)
-- [SUSE](https://www.suse.com/ja-jp/)
+- [XUSE (ザウス)](http://www.xuse.co.jp/)
+- [SUSE (スーザ)](https://www.suse.com/ja-jp/)
 - [The Slackware Linux Project](http://www.slackware.com/)
 
 ## た行
@@ -50,16 +52,18 @@ title: LINKS
 - [Debian](http://debian.org/)
 
 ## な行
+- [日本オラクル](https://www.oracle.com/jp/)
 - [ねこねこソフト](https://nekoneko-soft.info/)
 - [Norn](https://norn-soft.com/)
 
 ## は行
 - [Parasol](http://www.parasol-soft.com/)
 - [PULSENOTES](http://pulsenotes.org/)
-- [ビジュアルアーツ](http://www.product.co.jp/products/)
+- [ビジュアルアーツ](https://visual-arts.jp/)
 - [VideoLAN](https://www.videolan.org/vlc)
 - [FascodeNetwork](https://fascode.net/)
 - [Fedora](https://getfedora.org/ja/)
+- [フロントウイング](http://frontwing.jp/)
 - [BaseSon](http://baseson.nexton-net.jp/)
 
 ## や行
