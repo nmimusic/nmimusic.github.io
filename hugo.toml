@@ -60,6 +60,11 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	title = "linux/gnu/x distros"
 	hide_summary = false
 
+[params.recent_support]
+	enable = true
+	title = "support"
+	hide_summary = false
+
 [params.footer.recent_posts]
     enable = true
 
