@@ -22,7 +22,7 @@ Kamuriki Linuxのご利用には、EULAへの同意が必要です。
 中村音楽工業 オープンソースソフトウェア エンドユーザーライセンス契約 https://nmimusic.github.io/eula.pdf
 
 # ダウンロード
-- [Kamuriki Linux 3.7.1 Standard Edition](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.7.1/kamuriki-standard-3.7.1-amd64.iso)
+- [Kamuriki Linux 3.7.1 Standard Edition](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.7.1/kamuriki-3.7.1-amd64.iso)
 - [ソースコード](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.7.1/kamuriki-3.7.1.tar.gz)
 
 # 主な変更点
