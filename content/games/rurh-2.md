@@ -13,13 +13,13 @@ showActions: false
 ---
 
 {{< figure src="/img/discography/nowprinting.png" alt="RURH-2" position="left" width="240" height="240" >}}
-（DVD-ROM 12cm）**発売日未定**
+（CDもしくはDVD-ROM 12cm 1枚）**発売日未定**
+
+**※18歳未満購入禁止**
 
 制作：ルリタニアミュージックエンターテインメント / 品番：RURH-2 / 価格：未定
 
-<b><font color=#ff0000>※18歳未満購入禁止</font></b>
-
-<b>詳細は今後掲載</b>
+**詳細は今後掲載**
 
 # スタッフ
 - 原案：中村颯
