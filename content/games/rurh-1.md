@@ -59,7 +59,8 @@ showActions: false
     - LGX：PulseAudioないしPipeWire Pulse対応
 - 固定ドライブ：未定
 
-# 初回限定特典(予定)：主題歌CD(品番：RUCY-1)
+# 初回限定特典(予定)：主題歌CD
+- 品番：RUCY-1
 - メディア：CD-EXTRA 12cm
 - 音声：リニアPCM 44.1kHz/16bit
 - 収録曲順：
@@ -69,5 +70,4 @@ showActions: false
     - 月影 -short-
 - エクストラ・トラック
     - FLAC 48kHz/24bit
-    - DSF 2.8MHz
     - ライナーノーツ(txt方式)
