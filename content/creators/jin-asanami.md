@@ -13,7 +13,7 @@ showMeta: true
 showActions: false
 ---
 
-{{< figure src="/img/creator/hayate.jpg" alt="NJCH-1" position="left" width="240" height="240" >}}
+{{< figure src="/img/creator/hayate.jpg" alt="Jin Asanami" position="left" width="240" height="240" >}}
 
 2月1日生まれ / A型 / 長野県出身 / COMPOSER, WRITER & PROGRAMMER
 
@@ -32,4 +32,8 @@ showActions: false
 - [Misskey(9ineverse)](https://9ineverse.com/@hayatehay)
 - [Misskey(io)](https://misskey.io/@hayatehay)
 - [Mastodon(Fedibird)](https://fedibird.com/@hayatehay)
+- [サウンドクラウド](https://soundcloud.com/hayatehay)
 - [YouTube](https://youtube.com/@hayatehay)
+- [エックス](https://x.com/@hayatehay)
+- [Skeb](https://skeb.jp/@hayatehay)
+
