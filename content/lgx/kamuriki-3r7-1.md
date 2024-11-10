@@ -1,6 +1,6 @@
 ---
 title: 'Kamuriki Linux 3.7.1'
-date: 2024-09-14T10:11:59+09:00
+date: 2024-10-14T10:11:59+09:00
 banner: /img/discography/others/kamu-logo.png
 draft: false
 categories:
