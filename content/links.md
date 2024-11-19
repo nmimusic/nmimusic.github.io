@@ -12,12 +12,14 @@ title: LINKS
 # NMIのSNSアカウント
 - [公式Misskey @nmimusic@misskey.design](https://misskey.design/@nmimusic)
 - [公式Bluesky @nmimusic.bsky.social](https://bsky.app/profile/nmimusic.bsky.social)
-- [Linux/GNU/X情報 @njblinux@mastodon.social](https://mastodon.social/@njblinux)
+- [Kamuriki Linux @njblinux@mastodon.social](https://mastodon.social/@njblinux)
 - [YouTube NMIチャンネル](https://www.youtube.com/@nmi_music_official)
 - [GitHub @nmimusic](https://github.com/nmimusic)
 
 # 流通
 - [日本同人誌コード管理センター](https://isdn.jp/)
+- [BOOTH](https://booth.pm/)
+    - [NMI MUSIC STORE](https://nmimusic.booth.pm/)
 - [メロンブックス](https://melonbooks.co.jp/)
     - [ナカムラミュージックレコーズ](https://www.melonbooks.co.jp/circle/index.php?circle_id=67559)
 
@@ -28,7 +30,7 @@ title: LINKS
 - [Ablaze](https://ablaze.one)
 - [アリスソフト](http://www.alicesoft.com/)
 - [Alma Linux](https://almalinux.org/ja/)
-- [イープロダクツ](http://www.product.co.jp/)
+- [イープロダクツ](https://www.eeproduct.jp/)
 - [Ubuntu](https://jp.ubuntu.com/)
 - [エコールソフトウェア](https://e56.info)
 - [Escu:de](https://www.escude.co.jp/)
@@ -43,8 +45,8 @@ title: LINKS
 - [ケロQ](http://www.keroq.co.jp/)
 
 ## さ行
-- [XUSE (ザウス)](http://www.xuse.co.jp/)
-- [SUSE (スーザ)](https://www.suse.com/ja-jp/)
+- [XUSE](http://www.xuse.co.jp/)
+- [SUSE](https://www.suse.com/ja-jp/)
 - [The Slackware Linux Project](http://www.slackware.com/)
 
 ## た行
@@ -53,6 +55,7 @@ title: LINKS
 
 ## な行
 - [日本オラクル](https://www.oracle.com/jp/)
+- [NEXTON](https://nexton-net.jp/)
 - [ねこねこソフト](https://nekoneko-soft.info/)
 - [Norn](https://norn-soft.com/)
 
