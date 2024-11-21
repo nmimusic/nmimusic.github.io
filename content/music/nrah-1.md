@@ -18,18 +18,18 @@ showActions: false
 
 {{< figure src="/img/discography/nr/nrah-1.png" alt="NRAH-1" position="left" width="240" height="240" >}}
 
-<!-- NMI MUSIC STORE (近日発売開始)-->
+<!-- NMI MUSIC STORE (近日発売開始) -->
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
 
-（DVD-Audio/Video 12cm）**近日発売**<br>
+（DVD-Audio/Video 12cm）**2024年12月中旬発売予定**<br>
 
 発売元：ナカムラミュージックレコーズ / 品番：NRAH-1 / 価格：未定（税込み）/ ISDN：未取得
 
 # 紹介
 麻浪迅のデビュー盤「月影」が早くもDVDオーディオになった！
 
-全曲CDより高音質な96kHz/24bitで収録。更にビデオパートはいわゆる「DVDミュージック」を採用し、高音質な音楽とジャケット画像・ライナーノーツを同時かつ手軽に楽しめる。
+全曲CDより高音質な96kHz/24bitで収録。更にDVDビデオプレイヤーでも再生できるハイブリッド仕様を採用。
 
 ※ハイブリッドDVDオーディオ：DVDビデオプレイヤーでも再生可能なDVDオーディオ・ディスク。
 
