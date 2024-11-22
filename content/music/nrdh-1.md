@@ -1,7 +1,6 @@
 ---
 title: '麻浪迅「朝焼け -second track-」'
 date: 2024-07-14T12:00:00+09:00
-banner: /img/discography/nr/nrdh-1.png
 draft: false
 categories:
 - Music
@@ -14,9 +13,9 @@ showMeta: true
 showActions: false
 ---
 
-{{< figure src="/img/discography/nr/nrdh-1.png" alt="NRDH-1" position="left" width="240" height="240" >}}
-
 [ダウンロード（NMI MUSIC STORE）](https://nmimusic.booth.pm/items/5916436)
+
+[ダウンロード （メロンブックス）](https://www.melonbooks.co.jp/detail/detail.php?product_id=2674946)
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/sunrise-colours-second-track-demo)
 
@@ -36,5 +35,7 @@ EP「月影」収録の楽曲「朝焼け」を再編曲の上シングルカッ
 - FLAC 96kHz 24bit …550円
 - DSF 2.8MHz 1bit …550円 ※システムの都合上ZIPに圧縮して販売
 - まとめ買いセット …770円
+
+※メロンブックス様ではFLAC 44.1kHz/16bitのみの取り扱いです
 
 All songs are composed and arranged by Jin Asanami.
