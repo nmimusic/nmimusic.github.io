@@ -11,7 +11,7 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	viewMorePostLink = ["/news/"]
 	author = "NAKAMURA MUSICAL INDUSTRIES"
 	defaultKeywords = ["中村音楽工業", "中村音工", "NMI", "同人音楽"]
-	mainSections = ["news", "music", "games", "lgx", "creators", "support"]
+	mainSections = ["news", "blog", "music", "games", "lgx", "creators", "support"]
 
 	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト。所属クリエイターのお知らせや新譜の発売情報、ゲーム、イベント出演情報、メディア情報などを掲載。</p>"
 	copyright = "Copyright (C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved."
@@ -43,6 +43,11 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 [params.recent_news]
 	enable = true
 	title = "news"
+	hide_summary = false
+
+[params.recent_blog]
+	enable = true
+	title = "blog"
 	hide_summary = false
 
 [params.recent_music]
@@ -80,15 +85,20 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	weight     = 2
 
 [[menu.main]]
+	name       = "BLOG"
+	url        = "/blog/"
+	weight     = 3
+
+[[menu.main]]
 	name       = "CREATORS"
 	url        = "/creators/"
-	weight     = 3
+	weight     = 4
 
 [[menu.main]]
 	name       = "RELEASES"
 	identifier = "menu.releases"
 	url        = ""
-	weight     = 4
+	weight     = 5
 
 [[menu.main]]
 	name       = "Music"
@@ -112,7 +122,7 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	name       = "SUPPORT"
 	url        = ""
 	identifier = "menu.support"
-	weight     = 5
+	weight     = 6
 
 [[menu.main]]
 	name       = "SUPPORT INFORMATIONS"
@@ -130,19 +140,28 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	name       = "SHOP"
 	identifier = "menu.shop"
 	url        = "https://nmimusic.booth.pm/"
-	weight     = 6
+	weight     = 7
+
+[[menu.main]]
+	name       = "OTHERS"
+	url        = ""
+	identifier = "menu.others"
+	weight     = 8
 
 [[menu.main]]
 	name       = "LINKS"
 	url        = "/links/"
-	weight     = 7
+	weight     = 1
+	parent     = "menu.others"
 
 [[menu.main]]
 	name       = "CONTACT"
 	url        = "/contact/"
-	weight     = 8
+	weight     = 2
+	parent     = "menu.others"
 	
 [[menu.main]]
 	name       = "POLICIES"
 	url        = "/policies/"
-	weight     = 9
+	weight     = 3
+	parent     = "menu.others"
