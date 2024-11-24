@@ -101,21 +101,45 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	weight     = 5
 
 [[menu.main]]
-	name       = "Music"
+	name       = "All Music"
 	url        = "/music/"
 	weight     = 1
 	parent     = "menu.releases"
 
 [[menu.main]]
+	name       = "CD-DA"
+	url        = "/tags/cd-da/"
+	weight     = 2
+	parent     = "menu.releases"
+
+[[menu.main]]
+	name       = "DVD Audio"
+	url        = "/tags/dvd-audio/"
+	weight     = 3
+	parent     = "menu.releases"
+
+[[menu.main]]
+	name       = "DSD Disc"
+	url        = "/tags/dsd/"
+	weight     = 4
+	parent     = "menu.releases"
+
+[[menu.main]]
+	name       = "Download"
+	url        = "/tags/download/"
+	weight     = 5
+	parent     = "menu.releases"
+
+[[menu.main]]
 	name       = "Games"
 	url        = "/games/"
-	weight     = 2
+	weight     = 6
 	parent     = "menu.releases"
 
 [[menu.main]]
 	name       = "Linux/GNU/X"
 	url        = "/lgx/"
-	weight     = 3
+	weight     = 7
 	parent     = "menu.releases"
 
 [[menu.main]]

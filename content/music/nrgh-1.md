@@ -1,15 +1,13 @@
 ---
 title: '麻浪迅「月影」(DSD Disc Format)'
 date: 2024-11-12T00:00:00+09:00
-banner: /img/discography/nr/nrah-1.png
+banner: /img/discography/nr/nrgh-1.png
 draft: false
 categories:
 - Music
 tags:
 - 麻浪迅
-- DVD-Audio
-- DVD-Video
-- DVD-Music
+- DSD
 - ナカムラミュージックレコーズ
 comments: false
 showMeta: true

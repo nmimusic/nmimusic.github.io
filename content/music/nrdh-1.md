@@ -6,7 +6,7 @@ categories:
 - Music
 tags:
 - 麻浪迅
-- ダウンロード限定
+- Download
 - ナカムラミュージックレコーズ
 comments: false
 showMeta: true

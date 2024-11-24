@@ -64,10 +64,8 @@ showActions: false
 - メディア：CD-EXTRA 12cm
 - 音声：リニアPCM 44.1kHz/16bit
 - 収録曲順：
-    - 瑠璃空
-    - 瑠璃空 -short-
-    - 月影
-    - 月影 -short-
+    - 瑠璃空 (5:39)
+    - 月影 (4:04)
 - エクストラ・トラック
     - FLAC 48kHz/24bit
-    - ライナーノーツ(txt方式)
+    - DSF 2.8MHz/1bit
