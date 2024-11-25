@@ -20,7 +20,7 @@ showActions: false
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
 
-（DVD-Video/Audio 12cm）**2024年12月中旬発売予定**<br>
+（DVD-Video/Audio 12cm）**2024年12月7日発売予定**
 
 発売元：ナカムラミュージックレコーズ / 品番：NRAH-1 / 価格：2,200円（税込み）/ ISDN：未取得
 
