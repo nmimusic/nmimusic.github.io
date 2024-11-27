@@ -22,7 +22,7 @@ showActions: false
 
 （DVD-ROM 12cm）**2024年12月7日発売予定**
 
-発売元：ナカムラミュージックレコーズ / 品番：NRGH-1 / 価格：1,870円（税込み）/ ISDN：未取得
+発売元：ナカムラミュージックレコーズ / 品番：NRGH-1 / 価格：1,870円（税込み）/ ISDN：278-4-861670-04-3
 
 # 紹介
 麻浪迅のデビュー盤「月影」が早くもDSDディスクになった！
@@ -31,7 +31,7 @@ showActions: false
 
 ※DSDディスクは、「ダイレクトストリームデジタル」方式で音声を記録したDVD-ROMです。DSDに対応するプレイヤーで再生して下さい。DSD、Direct Stream Digital、DSD Disc Format、並びにDSDロゴはソニーグループ株式会社の登録商標です。
 
-[CD-EXTRA版(NRCH-1)](/music/nrch-1)も宜しくね！
+[CD-EXTRA版(NRCH-1)](/music/nrch-1)、[DVD版(NRAH-1)](/music/nrah-1)も宜しくね！
 
 # 収録曲順
 - 月影 (4:03)

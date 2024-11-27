@@ -16,13 +16,13 @@ showActions: false
 
 {{< figure src="/img/discography/nr/nrah-1.png" alt="NRAH-1" position="left" width="240" height="240" >}}
 
-<!-- [NMI MUSIC STORE (近日発売開始)](https://nmimusic.booth.pm/items/6308487) -->
+<!-- [NMI MUSIC STORE (近日発売開始)](https://nmimusic.booth.pm/items/6320823) -->
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
 
 （DVD-Video/Audio 12cm）**2024年12月7日発売予定**
 
-発売元：ナカムラミュージックレコーズ / 品番：NRAH-1 / 価格：2,200円（税込み）/ ISDN：未取得
+発売元：ナカムラミュージックレコーズ / 品番：NRAH-1 / 価格：2,200円（税込み）/ ISDN：278-4-861670-03-6
 
 # 紹介
 麻浪迅のデビュー盤「月影」が早くもDVDオーディオになった！
@@ -31,7 +31,7 @@ showActions: false
 
 ※ハイブリッドDVDオーディオ：DVDビデオプレイヤーでも再生可能なDVDオーディオ・ディスク。
 
-[CD-EXTRA版(NRCH-1)](/music/nrch-1)も宜しくね！
+[CD-EXTRA版(NRCH-1)](/music/nrch-1)、[DSDディスク版(NRGH-1)](/music/nrgh-1)も宜しくね！
 
 # 収録曲順
 - 月影 (4:03)

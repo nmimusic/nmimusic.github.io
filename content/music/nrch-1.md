@@ -33,6 +33,8 @@ showActions: false
 
 ※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
 
+[DVD版(NRAH-1)](/music/nrah-1)、[DSDディスク版(NRGH-1)](/music/nrgh-1)も宜しくね！
+
 # 収録曲順
 - 月影 (4:03)
 - 朝焼け (5:27)
