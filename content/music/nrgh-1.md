@@ -29,7 +29,8 @@ showActions: false
 
 176.4kHz 24bitのPCMマスターを基に、全曲2.8MHz/1bitでリマスターを実施。より「月影」の真髄に迫るディスク。
 
-※DSDディスクは、「ダイレクトストリームデジタル」方式で音声を記録したDVD-ROMです。DSDに対応するプレイヤーで再生して下さい。DSD、Direct Stream Digital、DSD Disc Format、並びにDSDロゴはソニーグループ株式会社の登録商標です。
+※DSDディスクは、「ダイレクトストリームデジタル」方式で音声を記録したDVD-ROMです。DSD、Direct Stream Digital、DSD Disc Format、並びにDSDロゴはソニーグループ株式会社の登録商標です。
+「DVD±Rに焼いたDSFファイル」に対応するプレイヤーで再生して下さい。例：例：[デノン DCD-3000NE](https://www.denon.jp/ja-jp/shop/denonapac-sacdcdplayers_ap/dcd3000ne)、[パイオニア PD-70](https://jpn.pioneer/ja/corp/news/press/index/1131/)、[マランツ SACD 30n](https://www.marantz.com/ja-jp/product/cd-players/sacd-30n/SACD30NJP.html)、[ソニー CECHシリーズ](https://www.playstation.com/ja-jp/support/hardware/ps3-discs-support/)、etc...
 
 [CD-EXTRA版(NRCH-1)](/music/nrch-1)、[DVD版(NRAH-1)](/music/nrah-1)も宜しくね！
 
