@@ -10,9 +10,10 @@ title: LINKS
 - [DebISO](https://github.com/nmimusic/debiso)
 
 # NMIのSNSアカウント
-- [公式Misskey @nmimusic@misskey.design](https://misskey.design/@nmimusic)
-- [公式Bluesky @nmimusic.bsky.social](https://bsky.app/profile/nmimusic.bsky.social)
-- [Kamuriki Linux @njblinux@mastodon.social](https://mastodon.social/@njblinux)
+- [NMI公式Misskey @nmimusic@misskey.design](https://misskey.design/@nmimusic)
+- [ルリタニア・レーベル公式Misskey @nmimusic@misskey.doujin.games](https://misskey.doujin.games/@nmimusic)
+- [Kamuriki Linux公式Misskey @njblinux@mastodon.social](https://mastodon.social/@njblinux)
+- [NMI公式Bluesky @nmimusic.bsky.social](https://bsky.app/profile/nmimusic.bsky.social)
 - [YouTube NMIチャンネル](https://www.youtube.com/@nmi_music_official)
 - [GitHub @nmimusic](https://github.com/nmimusic)
 
