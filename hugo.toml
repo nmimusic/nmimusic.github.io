@@ -155,9 +155,15 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	parent     = "menu.support"
 
 [[menu.main]]
+	name       = "DSD-DF COMPATIBLE LIST"
+	url        = "/dsd-disc-compatible-list/"
+	weight     = 2
+	parent     = "menu.support"
+
+[[menu.main]]
 	name       = "FAQ"
 	url        = "/faq/"
-	weight     = 2
+	weight     = 3
 	parent     = "menu.support"
 
 [[menu.main]]
