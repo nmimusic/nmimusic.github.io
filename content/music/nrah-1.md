@@ -16,7 +16,7 @@ showActions: false
 
 {{< figure src="/img/discography/nr/nrah-1.png" alt="NRAH-1" position="left" width="240" height="240" >}}
 
-[NMI MUSIC STORE (近日発売開始)](https://nmimusic.booth.pm/items/6320823)
+[NMI MUSIC STORE](https://nmimusic.booth.pm/items/6320823)
 
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/tsukikage-crossfade)
 
