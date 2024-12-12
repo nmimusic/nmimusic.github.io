@@ -29,6 +29,9 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 
 	pluralizelisttitles = false
 
+[markup.goldmark.renderer]
+	unsafe = true
+
 [params.widgets]
 	categories = true
 	tags = true
