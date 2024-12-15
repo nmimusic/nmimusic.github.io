@@ -16,8 +16,6 @@ showActions: false
 
 {{< figure src="/img/discography/nr/nrdz-1.png" alt="NRDZ-1" position="left" width="240" height="240" >}}
 
-<!-- [サウンドクラウドからダウンロード！](https://soundcloud.com/hayatehay/sets/demo-2024-dec/s-U7HDSJFdhDa?si=6f4b7146fb4d41e487155e1792eded69&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) -->
-
 [体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/demo-2024-dec-crossfade-demo)
 
 （MP3 VBR 0）**2024年12月14日公開**
