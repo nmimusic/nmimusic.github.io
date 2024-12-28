@@ -35,7 +35,7 @@ showActions: false
 # 仕様
 - メディア：CDもしくはDVD-ROM 1枚(未定)
 - 音声：リニアPCMもしくはOgg圧縮PCM(未定) Qサウンド対応
-- ゲームエンジン：NScripter
+- ゲームエンジン：[吉里吉里SDL2](https://krkrsdl2.github.io/krkrsdl2/)
 - OS：
     - 日本語版Windows(R) 7/8/10/11
     - 日本語対応・Wineを導入済みの各種Linux/GNU/Xディストリビューション

@@ -29,6 +29,8 @@ showActions: false
 本作はそんな物語。君の事を第一に考えてくれる恋人との、まったりした甘々な日常。
 萌えと癒やしを求める全ての人々へ、ルリタニア・レーベルが贈る。
 
+「私、お兄ちゃんをたくさん癒やしたい」
+
 <b>詳細は今後掲載</b>
 
 # スタッフ
@@ -45,7 +47,7 @@ showActions: false
 # 仕様
 - メディア：CDもしくはDVD-ROM 12cm 1枚(未定)
 - 音声：Ogg Vorbis VBR 8 Qサウンド対応
-- ゲームエンジン：NScripterもしくはONScripter(未定)
+- ゲームエンジン：[吉里吉里SDL2](https://krkrsdl2.github.io/krkrsdl2/)
 - OS：
     - 日本語版Windows(R) 7/8/10/11
     - 日本語対応・Wineを導入済みの各種Linux/GNU/Xディストリビューション
