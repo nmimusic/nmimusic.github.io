@@ -49,8 +49,8 @@ showActions: false
 - 音声：Ogg Vorbis VBR 8 Qサウンド対応
 - ゲームエンジン：[吉里吉里SDL2](https://krkrsdl2.github.io/krkrsdl2/)
 - OS：
-    - 日本語版Windows(R) 7/8/10/11
-    - 日本語対応・Wineを導入済みの各種Linux/GNU/Xディストリビューション
+    - 日本語版Windows(R) 10/11
+    - 日本語対応・各種Linux/GNU/Xディストリビューション
 - CPU：1GHz以上のx86(-64)プロセッサー
 - RAM：512MB(1024MB以上推奨)
 - VRAM：128MB(256MB以上推奨)
@@ -58,7 +58,7 @@ showActions: false
 - 光学ドライブ：DVD対応(DVD-ROMで出した場合)・4倍速以上推奨
 - 音声ボード：
     - Win：DirectSound対応
-    - LGX：PulseAudioないしPipeWire Pulse対応
+    - LGX：ALSA/PulseAudio/PipeWireいずれか対応
 - 固定ドライブ：未定
 
 # 初回限定特典(予定)：主題歌CD

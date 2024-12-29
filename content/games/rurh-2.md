@@ -37,12 +37,14 @@ showActions: false
 - 音声：リニアPCMもしくはOgg圧縮PCM(未定) Qサウンド対応
 - ゲームエンジン：[吉里吉里SDL2](https://krkrsdl2.github.io/krkrsdl2/)
 - OS：
-    - 日本語版Windows(R) 7/8/10/11
-    - 日本語対応・Wineを導入済みの各種Linux/GNU/Xディストリビューション
+    - 日本語版Windows(R) 10/11
+    - 日本語対応・各種Linux/GNU/Xディストリビューション
 - CPU：1GHz以上のx86(-64)プロセッサー
 - RAM：512MB(1024MB以上推奨)
 - VRAM：128MB(256MB以上推奨)
 - 画面解像度：1280×720以上(本作はハイビジョン制作)
 - 光学ドライブ：DVD対応(DVD-ROMで出した場合)・4倍速以上推奨
-- 音声ボード：DirectSound対応
+- 音声ボード：
+    - Win：DirectSound対応
+    - LGX：ALSA/PulseAudio/PipeWireいずれか対応
 - 固定ドライブ：未定
