@@ -34,7 +34,7 @@ showActions: false
 
 # 仕様
 - メディア：CDもしくはDVD-ROM 1枚(未定)
-- 音声：リニアPCMもしくはOgg圧縮PCM(未定) Qサウンド対応
+- 音声：WAV リニアPCM 44.1kHz 16bit Qサウンド対応
 - ゲームエンジン：[吉里吉里SDL2](https://krkrsdl2.github.io/krkrsdl2/)
 - OS：
     - 日本語版Windows(R) 10/11
