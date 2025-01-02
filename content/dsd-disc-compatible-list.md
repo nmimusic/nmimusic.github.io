@@ -20,7 +20,8 @@ DSF再生に対応するプレイヤーを見つけた際は、「knjbfm at gmai
 - CECH-4200B/C
 - CECH-4300/C
 - CECH-A/B/H/L/Q00
-- CECH-A/B/HMG
+- CECH-A/BMG
+- CECH-H00MG
 - CECH-HCWDM
 - CECH-HDM
 - SCD-XE800
