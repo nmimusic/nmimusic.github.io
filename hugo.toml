@@ -5,7 +5,7 @@ defaultContentLanguage = 'ja'
 hasCJKLanguage = true
 title = '中村音楽工業'
 theme = 'universal'
-copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
+copyright = '(C) 2023-2025 NAKAMURA MUSICAL INDUSTRIES'
 
 [params]
 	viewMorePostLink = ["/news/"]
@@ -110,8 +110,8 @@ copyright = '(C) 2023-2024 NAKAMURA MUSICAL INDUSTRIES'
 	parent     = "menu.releases"
 
 [[menu.main]]
-	name       = "CD-DA"
-	url        = "/tags/cd-da/"
+	name       = "CD EXTRA"
+	url        = "/tags/cd-extra/"
 	weight     = 2
 	parent     = "menu.releases"
 

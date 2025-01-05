@@ -7,7 +7,6 @@ categories:
 - Music
 tags:
 - 麻浪迅
-- CD-DA
 - CD-EXTRA
 - ナカムラミュージックレコーズ
 comments: false

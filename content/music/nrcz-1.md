@@ -1,5 +1,5 @@
 ---
-title: '麻浪迅「DEMO 2024 DEC」[CD-EXTRA]'
+title: '麻浪迅「DEMO 2024 DEC」'
 date: 2024-12-15T00:00:00+09:00
 banner: /img/discography/nr/nrdz-1.png
 draft: false
