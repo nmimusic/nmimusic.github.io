@@ -12,8 +12,7 @@ comments: false
 showMeta: true
 showActions: false
 ---
-
-[体験版（サウンドクラウド）](https://soundcloud.com/hayatehay/sunrise-colours-second-track-demo)
+{{< figure src="/img/discography/nr/nrdh-1.png" alt="NRDH-1" position="left" width="240" height="240" >}}
 
 <a href="https://nmimusic.booth.pm/items/5916436" target="_blank"><img src="/img/banner/nmi_music_store.png"></a>
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2674946" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
