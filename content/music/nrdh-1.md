@@ -1,6 +1,7 @@
 ---
 title: '麻浪迅「朝焼け -second track-」'
 date: 2024-07-14T12:00:00+09:00
+banner: "/img/discography/nr/nrdh-1.png"
 draft: false
 categories:
 - Music
