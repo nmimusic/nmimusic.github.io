@@ -1,7 +1,7 @@
 ---
 title: '麻浪迅「DEMO 2024 DEC」'
 date: 2024-12-15T00:00:00+09:00
-banner: /img/discography/nr/nrdz-1.png
+banner: /img/discography/nr/nrcz-1.png
 draft: false
 categories:
 - Music
@@ -14,7 +14,7 @@ showMeta: true
 showActions: false
 ---
 
-{{< figure src="/img/discography/nr/nrdz-1.png" alt="NRCZ-1" position="left" width="240" height="240" >}}
+{{< figure src="/img/discography/nr/nrcz-1.png" alt="NRCZ-1" position="left" width="240" height="240" >}}
 
 <a href="https://nmimusic.booth.pm/items/6371255" target="_blank"><img src="/img/banner/nmi_music_store.png"></a>
 
