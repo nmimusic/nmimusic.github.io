@@ -16,8 +16,12 @@ showActions: false
 
 {{< figure src="/img/discography/nr/nrch-1.png" alt="NRCH-1" position="left" width="240" height="240" >}}
 
+- CDを購入
 <a href="https://nmimusic.booth.pm/items/5865685" target="_blank"><img src="/img/banner/nmi_music_store.png"></a>
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
+
+- ダウンロード
+<a href="https://jinasanami.bandcamp.com/album/tsukikage" target="_blank"<img src="/img/banner/bandcamp_banner.png" alt="bandcamp"></a>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1848327477&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hayatehay" title="Jin Asanami / 麻浪迅" target="_blank">Jin Asanami / 麻浪迅</a> · <a href="https://soundcloud.com/hayatehay/tsukikage-crossfade" title="EP 月影(Moonlight) Crossfade DEMO" target="_blank">EP 月影(Moonlight) Crossfade DEMO</a></div>
 

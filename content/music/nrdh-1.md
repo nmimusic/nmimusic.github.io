@@ -14,6 +14,7 @@ showActions: false
 ---
 {{< figure src="/img/discography/nr/nrdh-1.png" alt="NRDH-1" position="left" width="240" height="240" >}}
 
+- ダウンロード
 <a href="https://nmimusic.booth.pm/items/5916436" target="_blank"><img src="/img/banner/nmi_music_store.png"></a>
 <a href="https://jinasanami.bandcamp.com/album/sunrise-colours-second-track" target="_blank"><img src="/img/banner/bandcamp_banner.png"></a>
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2674946" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
@@ -22,29 +23,12 @@ showActions: false
 
 （ダウンロード限定）**2024年7月14日発売**
 
-発売元：ナカムラミュージックレコーズ / 品番：NRDH-1 / 価格：サイト毎に異なる /ISDN：[278-4-861670-02-9](https://isdn.jp/2784861670029)
+発売元：ナカムラミュージックレコーズ / 品番：NRDH-1 / 配信限定 /ISDN：[278-4-861670-02-9](https://isdn.jp/2784861670029)
 
 # 紹介
 EP「月影」収録の楽曲「朝焼け」を再編曲の上シングルカット。
 
 # 収録曲順
 - 朝焼け -second track- (5:24)
-
-# 価格
-## NMI MUSIC STORE (消費税込み)
-- MP3 VBR 0 …275円
-- FLAC 44.1kHz 16bit …440円
-- FLAC 96kHz 24bit …550円
-- DSF 2.8MHz 1bit …550円 ※システムの都合上ZIPに圧縮して販売
-- まとめ買いセット …770円
-
-## Bandcamp
-- 以下のコーデックでダウンロード可能 …400円
-   - MP3/Vorbis/AAC 44.1kHz ロッシーPCM
-   - FLAC/ALAC 44.1kHz 16bit ロスレスPCM
-   - WAV/AIFF 44.1kHz 16bit リニアPCM
-
-## メロンブックス (消費税込み)
-- FLAC 44.1kHz/16bit …440円
 
 All songs are composed and arranged by Jin Asanami.
