@@ -1,10 +1,10 @@
 ---
 title: '麻浪迅「朝焼け -second track-」'
-date: 2024-01-09T12:00:00+09:00
-banner: "/img/discography/nr/nrdh-1.png"
+date: 2025-01-08T12:00:00+09:00
+banner: "/img/discography/nr/nrmh-1.png"
 draft: false
 categories:
-- Music
+- News
 tags:
 - 麻浪迅
 - Card
