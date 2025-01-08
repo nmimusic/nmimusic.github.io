@@ -7,7 +7,7 @@ categories:
 - Music
 tags:
 - 麻浪迅
-- MusicCard
+- Card
 - ナカムラミュージックレコーズ
 comments: false
 showMeta: true
