@@ -1,5 +1,5 @@
 ---
-title: '麻浪迅「月影」(DSD Disc Format)'
+title: '麻浪迅「月影」[DSD Disc Format]'
 date: 2024-11-12T00:00:00+09:00
 banner: /img/discography/nr/nrgh-1.png
 draft: false

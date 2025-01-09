@@ -1,5 +1,5 @@
 ---
-title: '麻浪迅「月影」(DVD-Audio/Video)'
+title: '麻浪迅「月影」[DVD-Audio Hybrid]'
 date: 2024-11-12T00:00:00+09:00
 banner: /img/discography/nr/nrah-1.png
 draft: false

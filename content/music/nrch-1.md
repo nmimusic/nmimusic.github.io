@@ -1,5 +1,5 @@
 ---
-title: '麻浪迅「月影」'
+title: '麻浪迅「月影」[CD-EXTRA]'
 date: 2024-06-30T00:00:00+09:00
 banner: /img/discography/nr/nrch-1.png
 draft: false
@@ -32,7 +32,7 @@ showActions: false
 # 紹介
 その響きは、月夜を彩る。
 
-麻浪迅のデビュー盤・1st EP。ジャズのようなスカのような「月影」、ピアノ主体の「egret」他3曲を収録。通常のCDプレイヤーで再生できるCD-DA領域と、全楽曲のハイレゾ(48kHz/24bit)FLACを収録したエクストラ領域の豪華2本立て。2チャンネルスピーカーでサラウンドを実現する「Qサウンド」処理済み。
+麻浪迅のデビュー盤・1st EP。ジャズのようなスカのような「月影」、ピアノ・ロック「egret」を含む全5曲を収録。
 
 ※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
 
@@ -47,3 +47,6 @@ showActions: false
 
 All songs are composed and arranged by Jin Asanami.
 
+# エクストラデータ
+- FLAC 全曲分(48kHz/24bit)
+- ライナーノーツ(TXT形式)

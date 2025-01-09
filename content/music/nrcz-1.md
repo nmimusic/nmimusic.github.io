@@ -1,5 +1,5 @@
 ---
-title: '麻浪迅「DEMO 2024 DEC」'
+title: '麻浪迅「DEMO 2024 DEC」[CD-EXTRA]'
 date: 2024-12-15T00:00:00+09:00
 banner: /img/discography/nr/nrcz-1.png
 draft: false
@@ -31,7 +31,7 @@ showActions: false
 # 紹介
 「9ineverse非公式オンリーイベント オンラインオフ会」にて限定配布したシングルが、高音質になって帰ってきた！
 
-EP「[月影](/music/nrch-1)」収録の「blank」のスウィングアレンジを含むデモ楽曲を3曲収録。更に全曲分のハイレゾデータ(FLAC 48kHz/24bit、96kHz/24bit)、イベントのサークルカット及びフライヤーを同梱。
+2024年7月発売のEP「月影」に収録されたテクノジャズ「blank」を大胆にスウィングアレンジ。またサウンドクラウドにて1分程度のフェードデモのみ公開された2曲を全尺収録。 
 
 # 収録曲順
 - blank -lounge at 22 o'clock remix- (3:44)
@@ -39,3 +39,8 @@ EP「[月影](/music/nrch-1)」収録の「blank」のスウィングアレン�
 - 触れて (3:28)
 
 All songs are composed and arranged by Jin Asanami.
+
+# エクストラデータ
+- 全曲分FLAC(48kHz/24bit)
+- ライナーノーツ(TXT形式)
+- 「9ineverse非公式オンリー」サークルカット/フライヤー(PNG形式)

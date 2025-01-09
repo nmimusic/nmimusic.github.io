@@ -1,5 +1,5 @@
 ---
-title: '麻浪迅「朝焼け -second track-」'
+title: '麻浪迅「朝焼け -second track-」[配信限定]'
 date: 2024-07-14T12:00:00+09:00
 banner: "/img/discography/nr/nrdh-1.png"
 draft: false
