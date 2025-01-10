@@ -165,15 +165,21 @@ copyright = '(C) 2023-2025 NAKAMURA MUSICAL INDUSTRIES'
 	parent     = "menu.support"
 
 [[menu.main]]
+	name       = "WHAT'S CD-EXTRA?"
+	url        = "/cdextra/"
+	weight     = 2
+	parent     = "menu.support"
+
+[[menu.main]]
 	name       = "DSD-DF COMPATIBLE LIST"
 	url        = "/dsd-disc-compatible-list/"
-	weight     = 2
+	weight     = 3
 	parent     = "menu.support"
 
 [[menu.main]]
 	name       = "FAQ"
 	url        = "/faq/"
-	weight     = 3
+	weight     = 4
 	parent     = "menu.support"
 
 [[menu.main]]
