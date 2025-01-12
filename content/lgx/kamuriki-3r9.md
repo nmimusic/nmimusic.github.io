@@ -36,10 +36,10 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” 
 IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
-# ダウンロード
-- [Kamuriki Linux 3.9 Professional Edition](https://nmimusic.booth.pm/items/6478705)
-- [Kamuriki Linux 3.9 Standard Edition](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.9/kamuriki-standard-3.9-amd64.iso)
-- [ソースコード](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.9/kamuriki-standard-3.9-src.tar.gz)
+# Kamurikiを入手
+- [Kamuriki Linux 3.9 Professional Edition (DVD)](https://nmimusic.booth.pm/items/6478705)
+- [Kamuriki Linux 3.9 Standard Edition (ISO)](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.9/kamuriki-standard-3.9-amd64.iso)
+- [ソースコード (tar.gz)](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.9/kamuriki-standard-3.9-src.tar.gz)
 
 # 主な変更点
 - カーネルを6.1.123に更新
