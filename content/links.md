@@ -11,6 +11,7 @@ title: LINKS
 
 # NMIのSNSアカウント
 - [NMI公式Misskey @nmimusic@misskey.design](https://misskey.design/@nmimusic)
+- [ナカムラ・レーベル公式Misskey @nakamuramusicrecords@otoskey.tarbin.net](https://otoskey.tarbin.net/@nakamuramusicrecords)
 - [ルリタニア・レーベル公式Misskey @nmimusic@misskey.doujin.games](https://misskey.doujin.games/@nmimusic)
 - [Kamuriki Linux公式Misskey @njblinux@mastodon.social](https://mastodon.social/@njblinux)
 - [NMI公式Bluesky @nmimusic.bsky.social](https://bsky.app/profile/nmimusic.bsky.social)
