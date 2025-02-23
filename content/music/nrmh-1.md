@@ -30,7 +30,7 @@ EP「月影」収録の楽曲「朝焼け」を再編曲の上シングルカッ
 ※これはBandcampの仕組みを利用したミュージックカードです。CDではありませんので、ご確認の上ご注文下さい。
 
 # 収録曲順
-- 朝焼け -second track- (5:24)
+1. 朝焼け -second track- (5:24)
 
 All songs are composed and arranged by Jin Asanami.
 

@@ -34,9 +34,9 @@ showActions: false
 2024年7月発売のEP「月影」に収録されたテクノジャズ「blank」を大胆にスウィングアレンジ。またサウンドクラウドにて1分程度のフェードデモのみ公開された2曲を全尺収録。 
 
 # 収録曲順
-- blank -lounge at 22 o'clock remix- (3:44)
-- ネオン (4:11)
-- 触れて (3:28)
+1. blank -lounge at 22 o'clock remix- (3:44)
+2. ネオン (4:11)
+3. 触れて (3:28)
 
 All songs are composed and arranged by Jin Asanami.
 
