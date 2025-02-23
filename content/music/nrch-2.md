@@ -42,8 +42,8 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 [ミュージックカード版](/music/nrmh-2)も宜しくね！
 
 # 収録曲順
-1 Alma (3:48)
-2 哀流 (4:07)
+1. Alma (3:48)
+2. 哀流 (4:07)
 
 All songs are composed and arranged by Jin Asanami.
 
