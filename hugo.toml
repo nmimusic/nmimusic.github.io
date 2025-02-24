@@ -177,9 +177,15 @@ copyright = '(C) 2023-2025 NAKAMURA MUSICAL INDUSTRIES'
 	parent     = "menu.support"
 
 [[menu.main]]
+	name       = "DOWNLOAD WITH MUSIC CARD"
+	url        = "/musiccard/"
+	weight     = 4
+	parent     = "menu.support"
+
+[[menu.main]]
 	name       = "FAQ"
 	url        = "/faq/"
-	weight     = 4
+	weight     = 5
 	parent     = "menu.support"
 
 [[menu.main]]
