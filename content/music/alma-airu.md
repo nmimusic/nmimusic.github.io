@@ -53,7 +53,7 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 - 発売日：2025年3月5日予定
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRMH-2
-- 価格：￥400+消費税
+- 価格：￥600+消費税
 - ISDN：[278-4-861670-08-1](https://isdn.jp/2784861670081)
 
 <a href="https://nmimusic.booth.pm/items/6605491" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
@@ -61,4 +61,4 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 ## ダウンロード
 ※2025年3月上旬以降
 <!--a href="https://jinasanami.bandcamp.com/album/alma-airu" target="_blank"--><img src="/img/banner/bandcamp.png" alt="Bandcamp"><!--/a-->
-<!--a href="https://www.dlsite.com/home/work/=/product_id/RJ01349990.html" target="_blank"--><img src="/img/banner/dlsite.jpg" alt="DLsite"><!--/a-->
+<!--a href="https://www.dlsite.com/home/work/=/product_id/RJ01350054.html" target="_blank"--><img src="/img/banner/dlsite.jpg" alt="DLsite"><!--/a-->
