@@ -104,52 +104,21 @@ theme = 'universal'
 	weight     = 5
 
 [[menu.main]]
-	name       = "All Music"
+	name       = "Music"
 	url        = "/music/"
 	weight     = 1
 	parent     = "menu.releases"
 
 [[menu.main]]
-	name       = "CD EXTRA"
-	url        = "/tags/cd-extra/"
-	weight     = 2
-	parent     = "menu.releases"
-
-
-[[menu.main]]
-	name       = "Music Card"
-	url        = "/tags/card/"
-	weight     = 3
-	parent     = "menu.releases"
-
-[[menu.main]]
-	name       = "Download"
-	url        = "/tags/download/"
-	weight     = 4
-	parent     = "menu.releases"
-
-[[menu.main]]
-	name       = "DVD Audio"
-	url        = "/tags/dvd-audio/"
-	weight     = 5
-	parent     = "menu.releases"
-
-[[menu.main]]
-	name       = "DSD Disc"
-	url        = "/tags/dsd/"
-	weight     = 6
-	parent     = "menu.releases"
-
-[[menu.main]]
 	name       = "Games"
 	url        = "/games/"
-	weight     = 7
+	weight     = 2
 	parent     = "menu.releases"
 
 [[menu.main]]
 	name       = "Linux/GNU/X"
 	url        = "/lgx/"
-	weight     = 8
+	weight     = 3
 	parent     = "menu.releases"
 
 [[menu.main]]
