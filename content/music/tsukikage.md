@@ -80,7 +80,4 @@ showActions: false
 
 ## ダウンロード
 <a href="https://jinasanami.bandcamp.com/album/tsukikage" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>
-<!--a href="https://www.dlsite.com/home/work/=/product_id/RJ01349990.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a-->
-<a href="https://www.dlsite.com/home/announce/=/product_id/RJ01349990.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
-
-※DLsiteは2025年3月5日
+<a href="https://www.dlsite.com/home/work/=/product_id/RJ01349990.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>

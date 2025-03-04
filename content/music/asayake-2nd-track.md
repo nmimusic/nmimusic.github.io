@@ -49,7 +49,4 @@ EP「月影」収録の楽曲「朝焼け」を再編曲の上シングルカッ
 
 <a href="https://jinasanami.bandcamp.com/album/sunrise-colours-second-track" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2674946" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
-<!--a href="https://www.dlsite.com/home/work/=/product_id/RJ01350035.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a-->
-<a href="https://www.dlsite.com/home/announce/=/product_id/RJ01350035.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
-
-※DLsiteは2025年3月5日
+<a href="https://www.dlsite.com/home/work/=/product_id/RJ01350035.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>

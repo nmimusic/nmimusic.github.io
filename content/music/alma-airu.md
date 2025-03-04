@@ -1,6 +1,6 @@
 ---
 title: '麻浪迅「Alma/哀流」'
-date: 2024-03-01T00:00:00+09:00
+date: 2025-03-05T00:00:00+09:00
 banner: /img/discography/nr/alma-airu.png
 draft: false
 categories:
@@ -34,7 +34,7 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 
 # 購入
 ## CDエクストラ
-- 発売日：2025年3月5日予定
+- 発売日：2025年3月5日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRCH-2
 - 価格：￥1,100+消費税
@@ -50,7 +50,7 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 - ライナーノーツ(TXT形式)
 
 ## ミュージックカード
-- 発売日：2025年3月5日予定
+- 発売日：2025年3月5日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRMH-2
 - 価格：￥600+消費税
@@ -59,7 +59,5 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 <a href="https://nmimusic.booth.pm/items/6605491" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
 
 ## ダウンロード
-※2025年3月上旬以降
-<!--a href="https://jinasanami.bandcamp.com/album/alma-airu" target="_blank"--><img src="/img/banner/bandcamp.png" alt="Bandcamp"><!--/a-->
-<!--a href="https://www.dlsite.com/home/work/=/product_id/RJ01350054.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a-->
-<a href="https://www.dlsite.com/home/announce/=/product_id/RJ01350054.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
+<a href="https://jinasanami.bandcamp.com/album/alma-airu" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>
+<a href="https://www.dlsite.com/home/work/=/product_id/RJ01350054.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
