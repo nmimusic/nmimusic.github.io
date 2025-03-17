@@ -39,9 +39,8 @@ IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
 ```
 
 # Kamurikiを入手
-<!--- [Kamuriki Linux 3.10 Professional Edition (DVD)](https://nmimusic.booth.pm/items/6478705)-->
-- Kamuriki Linux 3.10 Professional Edition (DVD) **2025年3月20日登場予定**
-- [Kamuriki Linux 3.9 Standard Edition (ISO)](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.10/kamuriki-3.10-amd64.iso)
+- [Kamuriki Linux 3.10 Professional Edition (DVD)](https://nmimusic.booth.pm/items/6478705)
+- [Kamuriki Linux 3.10 Standard Edition (ISO)](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.10/kamuriki-3.10-amd64.iso)
 - [ソースコード (tar.gz)](https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.10/kamuriki-standard-3.10-src.tar.gz)
 
 **USBにはDDモードで焼いて下さい。**
