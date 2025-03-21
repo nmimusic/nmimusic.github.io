@@ -1,5 +1,5 @@
 ---
-title: 'Kamuriki Linux 3.9'
+title: 'Kamuriki Linux 3.10'
 date: 2025-03-16T19:13:48+09:00
 banner: /img/discography/others/kamu-logo.png
 draft: false
