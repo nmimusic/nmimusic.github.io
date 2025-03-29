@@ -1,6 +1,7 @@
 ---
 title: '麻浪迅「Alma/哀流」'
 date: 2025-03-05T00:00:00+09:00
+lastmod: 2025-03-29T00:00:00+09:00
 banner: /img/discography/nr/alma-airu.png
 draft: false
 categories:
