@@ -51,4 +51,9 @@ showActions: false
 - 「9ineverse非公式オンリー」サークルカット/フライヤー(PNG形式)
 
 ## ダウンロード
+- 発売日：2024年7月14日
+- レーベル：ナカムラミュージックレコーズ
+- 品番：NRDZ-1
+- 価格：￥720+消費税
+
 <a href="https://jinasanami.bandcamp.com/album/demo-2024-dec" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>

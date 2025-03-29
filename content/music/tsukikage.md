@@ -79,5 +79,10 @@ showActions: false
 ※DSDディスク：DSFリニアPDM方式で音声を記録したDVD-ROM。[再生可能な機器一覧](https://nmimusic.github.io/dsd-disc-compatible-list)もご覧下さい。
 
 ## ダウンロード
+- 発売日：2024年1月10日
+- レーベル：ナカムラミュージックレコーズ
+- 品番：NRDH-2
+- 価格：￥1200+消費税
+
 <a href="https://jinasanami.bandcamp.com/album/tsukikage" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>
 <a href="https://www.dlsite.com/home/work/=/product_id/RJ01349990.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>

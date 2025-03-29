@@ -59,5 +59,10 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 <a href="https://nmimusic.booth.pm/items/6605491" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
 
 ## ダウンロード
+- 発売日：2024年3月5日
+- レーベル：ナカムラミュージックレコーズ
+- 品番：NRDH-3
+- 価格：￥600+消費税
+
 <a href="https://jinasanami.bandcamp.com/album/alma-airu" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>
 <a href="https://www.dlsite.com/home/work/=/product_id/RJ01350054.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
