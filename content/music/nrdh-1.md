@@ -33,6 +33,8 @@ EP「月影」収録の楽曲「朝焼け」を再編曲の上シングルカッ
 
 # 購入
 ## ミュージックカード
+{{< figure src="/img/discography/nr/jacket/nrmh-1.png" alt="カード" position="center">}}
+
 - 発売日：2025年1月10日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRMH-1

@@ -35,6 +35,8 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 
 # 購入
 ## CDエクストラ
+{{< figure src="/img/discography/nr/jacket/nrch-2.png" alt="CD+" position="center">}}
+
 - 発売日：2025年3月5日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRCH-2
@@ -51,6 +53,8 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 - ライナーノーツ(TXT形式)
 
 ## ミュージックカード
+{{< figure src="/img/discography/nr/jacket/nrmh-2.png" alt="カード" position="center">}}
+
 - 発売日：2025年3月5日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRMH-2

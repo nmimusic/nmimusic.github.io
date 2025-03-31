@@ -18,7 +18,7 @@ showActions: false
 
 -----
 
-その響きは、月夜を彩る。
+**その響きは、月夜を彩る。**
 
 麻浪迅のデビュー盤・1st EP。ジャズのようなスカのような「月影」、ピアノ・ロック「egret」を含む全5曲を収録。
 
@@ -38,6 +38,8 @@ showActions: false
 
 # 購入
 ## CDエクストラ
+{{< figure src="/img/discography/nr/jacket/nrch-1.png" alt="CD+" position="center">}}
+
 - 発売日：2024年7月7日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRCH-1
@@ -54,6 +56,8 @@ showActions: false
 - ライナーノーツ(TXT形式)
 
 ## DVDオーディオ
+{{< figure src="/img/discography/nr/jacket/nrah-1.png" alt="DVD" position="center">}}
+
 - 発売日：2024年12月7日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRAH-1
@@ -68,6 +72,8 @@ showActions: false
 ※ハイブリッドDVDオーディオ：DVDビデオプレイヤーでも再生可能なDVDオーディオ・ディスク。
 
 ## DSDディスク
+{{< figure src="/img/discography/nr/jacket/nrgh-1.png" alt="DSD" position="center">}}
+
 - 発売日：2024年12月7日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRGH-1

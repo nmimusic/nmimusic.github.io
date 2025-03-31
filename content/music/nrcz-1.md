@@ -36,6 +36,8 @@ showActions: false
 
 # 購入
 ## CDエクストラ
+{{< figure src="/img/discography/nr/jacket/nrcz-1.png" alt="CD+" position="center">}}
+
 - 発売日：2024年12月21日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRCZ-1
