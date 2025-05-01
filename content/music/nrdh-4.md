@@ -1,7 +1,6 @@
 ---
 title: '麻浪迅「9inth Story」'
 date: 2024-05-01T10:00:00+09:00
-banner: ""
 draft: false
 categories:
 - Music
@@ -12,9 +11,6 @@ comments: false
 showMeta: true
 showActions: false
 ---
-<!--{{< figure src="/img/discography/nr/9inth.png" alt="" position="center" >}}-->
-
------
 
 **万感の思いを込めて贈る、ピアノロックが今ここに。**
 
