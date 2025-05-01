@@ -23,7 +23,7 @@ showActions: false
 9ineverse.comのサービス終了に伴い、リマスターを実施し、5月31日まで特別に無料公開。
 
 # 収録曲順
-1. 朝焼け -second track- (5:24)
+1. 9inth Story (3:29)
 
 # スタッフ
 - 作編曲/ミキシング/マスタリング: 麻浪迅
