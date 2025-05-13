@@ -13,7 +13,6 @@ showActions: false
 ---
 
 {{< figure src="/img/discography/nowprinting.png" alt="RURH-1" position="left" width="240" height="240" >}}
-(DVD-ROM 12cm 1枚）**発売日未定**
 
 **※18歳未満購入禁止**
 
@@ -56,12 +55,7 @@ showActions: false
 - 画面解像度：1280×720以上(本作はハイビジョン制作)
 - 固定ドライブ：インストールには2048MBの空き容量(予定)
 - 光学ドライブ：1層式DVD対応・4倍速以上推奨
-- ビデオカード：
-    - LGX：X11/Waylandいずれか対応
-    - Win：DirectX 9.0c以降対応
-- サウンドカード：
-    - LGX：ALSA/PulseAudio/PipeWireいずれか対応
-    - Win：DirectSound対応
+- サウンドカード：PCM再生対応
 
 ※IA-32系CPUでは動作しません。必ずAMD64/Intel64で動かして下さい。
 

@@ -13,7 +13,6 @@ showActions: false
 ---
 
 {{< figure src="/img/discography/nowprinting.png" alt="RURH-2" position="left" width="240" height="240" >}}
-（CDもしくはDVD-ROM 12cm 1枚）**発売日未定**
 
 **※18歳未満購入禁止**
 
@@ -33,18 +32,15 @@ showActions: false
 - プログラム：麻浪迅
 
 # 仕様
-- メディア：CDもしくはDVD-ROM 1枚(未定)
-- 音声：WAV リニアPCM 44.1kHz 16bit Qサウンド対応
+- メディア：DVD-ROM 12cm 1枚
 - ゲームエンジン：[吉里吉里SDL2](https://krkrsdl2.github.io/krkrsdl2/)
 - OS：
-    - 日本語版Windows(R) 10/11
-    - 日本語対応・各種Linux/GNU/Xディストリビューション
-- CPU：1GHz以上のx86(-64)プロセッサー
+    - 日本語対応・各種Linux/GNU/Xシステム
+    - 日本語版Windows(R) 11
+- CPU：AMD64/Intel64 1GHz以上
 - RAM：512MB(1024MB以上推奨)
 - VRAM：128MB(256MB以上推奨)
 - 画面解像度：1280×720以上(本作はハイビジョン制作)
-- 光学ドライブ：DVD対応(DVD-ROMで出した場合)・4倍速以上推奨
-- 音声ボード：
-    - Win：DirectSound対応
-    - LGX：ALSA/PulseAudio/PipeWireいずれか対応
-- 固定ドライブ：未定
+- 固定ドライブ：インストールには2048MBの空き容量(予定)
+- 光学ドライブ：1層式DVD対応・4倍速以上推奨
+- サウンドカード：PCM再生対応
