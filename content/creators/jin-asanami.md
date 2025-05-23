@@ -29,11 +29,10 @@ showActions: false
 
 ## ウェブサイト
 - [公式ウェブサイト](https://hayatehay.github.io)
-- [Misskey(9ineverse)](https://9ineverse.com/@hayatehay)
-- [Misskey(io)](https://misskey.io/@hayatehay)
+- [PrisMisskey](https://prismisskey.space/@jinasanami)
 - [Mastodon(Fedibird)](https://fedibird.com/@hayatehay)
 - [サウンドクラウド](https://soundcloud.com/hayatehay)
-- [YouTube](https://youtube.com/@hayatehay)
+- [YouTube](https://youtube.com/@jinasanamiofficial)
 - [エックス](https://x.com/@hayatehay)
 - [Skeb](https://skeb.jp/@hayatehay)
 
