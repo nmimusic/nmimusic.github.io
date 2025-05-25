@@ -25,6 +25,7 @@ DSF再生に対応するプレイヤーを見つけた際は、「knjbfm at gmai
 - CECH-HCWDM
 - CECH-HDM
 - SCD-XE800
+- SCD-XA5400ES
 - UBP-X700
 - UBP-X800/M2
 
@@ -47,7 +48,7 @@ DSF再生に対応するプレイヤーを見つけた際は、「knjbfm at gmai
 - PD-30
 - PD-70
 
-# 松下
+# パナソニック
 - DMP-BD88
 - DMP-BD90/S
 - DMP-BDT180
