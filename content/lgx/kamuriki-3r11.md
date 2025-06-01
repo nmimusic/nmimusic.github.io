@@ -1,6 +1,6 @@
 ---
 title: 'Kamuriki Linux 3 Rollup 11'
-date: 2024-06-11T12:05:51+09:00
+date: 2025-06-01T12:00:00+09:00
 banner: /img/discography/others/kamu-logo.png
 draft: false
 categories:
