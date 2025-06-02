@@ -34,7 +34,7 @@ sudo apt upgrade
 - CPU：AMD64/Intel64 512GHz以上
 - RAM：512MB（1024MB以上推奨）
 - VRAM：128MB（256MB以上推奨）
-- 画面解像度：1280×720以上（本作はハイビジョン制作）
+- 画面解像度：1280×720以上
 - 固定ドライブ：インストールには20GBの空き容量
 - 光学ドライブ：2層式DVD対応・4倍速以上推奨
 - サウンドカード：PCM再生対応
@@ -48,4 +48,4 @@ NMI MUSIC STOREにて販売中です。
 
 ## Standard
 SourceForgeにて無料で入手できます。ISOを2層式DVD±RやUSBメモリ（DDモード必須）へ焼いて下さい。
-<a href=https://sourceforge.net/projects/kamurikilinux/" target"_blank"><img src="/img/banner/sflogo.png" alt="SOURCE FORGE"></a>
+<a href=https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.11/" target"_blank"><img src="/img/banner/sflogo.png" alt="SOURCE FORGE"></a>
