@@ -48,4 +48,5 @@ NMI MUSIC STOREにて販売中です。
 
 ## Standard
 SourceForgeにて無料で入手できます。ISOを2層式DVD±RやUSBメモリ（DDモード必須）へ焼いて下さい。
-<a href=https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.11/" target"_blank"><img src="/img/banner/sflogo.png" alt="SOURCE FORGE"></a>
+
+<a href="https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.11/" target="_blank"><img src="/img/banner/sflogo.png" alt="SOURCE FORGE" width="200"></a>
