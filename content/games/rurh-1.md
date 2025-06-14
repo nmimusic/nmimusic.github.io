@@ -60,6 +60,10 @@ showActions: false
 ※IA-32系CPUでは動作しません。必ずAMD64/Intel64で動かして下さい。
 
 # 初回限定特典：主題歌CD
+初回限定盤には、主題歌「瑠璃空」「月影」2曲を収録したCDが付属予定！
+
+CDエクストラを採用し、FLAC（ロスレスPCM）とDSF（デルタシグマPDM）も付属。
+
 - 品番：RUCY-1
 - メディア：CD-EXTRA 12cm
 - 音声：リニアPCM 44.1kHz/16bit
