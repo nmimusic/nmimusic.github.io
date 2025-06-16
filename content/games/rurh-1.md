@@ -1,7 +1,7 @@
 ---
 title: '癒やしたがりな彼女のいる日常'
 date: 2024-06-11T12:05:51+09:00
-banner: /img/discography/nowprinting.png
+banner: /img/discography/ru/rurh-1-alpha.png
 draft: false
 categories:
 - Games
@@ -12,7 +12,7 @@ showMeta: true
 showActions: false
 ---
 
-{{< figure src="/img/discography/nowprinting.png" alt="RURH-1" position="left" width="240" height="240" >}}
+{{< figure src="/img/discography/ru/rurh-1.png" alt="RURH-1" position="left" width="600" >}}
 
 **※18歳未満購入禁止**
 
