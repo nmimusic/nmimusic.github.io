@@ -32,6 +32,10 @@ theme = 'universal'
 [markup.goldmark.renderer]
 	unsafe = true
 
+[params.topbar]
+	enable = true
+	text = """<a href="/text/index.htm">w3m、Lynx等でご覧の方はこちら"""
+
 [params.widgets]
 	categories = true
 	tags = true
