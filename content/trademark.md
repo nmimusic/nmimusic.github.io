@@ -18,6 +18,8 @@ title: "NMI商標ガイドライン"
 
 2024年5月19日 「エヌ・ジェー・ビー音盤」「NJB Records」を「ナカムラミュージックレコーズ」「Nakamura Music Records」に変更
 
+2025年8月10日 「Ruritania」を「ルリタニアミュージックエンターテインメント」「Ruritania Music Entertainment」に分割・変更
+
 ---
 
 # 第1条
@@ -32,7 +34,8 @@ title: "NMI商標ガイドライン"
 - NAKA-MURA JUKEBOX
 - ナカムラミュージックレコーズ
 - Nakamura Music Records
-- Ruritania
+- ルリタニアミュージックエンターテインメント
+- Ruritania Music Entertainment
 - Kamuriki Linux
 - Univalent Versatile Environment
 - Moevalent
