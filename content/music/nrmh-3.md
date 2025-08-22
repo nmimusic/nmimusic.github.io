@@ -14,8 +14,7 @@ showMeta: true
 showActions: false
 ---
 
-<!-- {{< figure src="/img/discography/nr/tsukikage.png" alt="月影" position="center">}} -->
-{{< figure src="/img/discography/nowprinting.png" alt="準備中" position="center">}}
+{{< figure src="/img/discography/nr/exsultatio.png" alt="エクスルタティオ" position="center">}}
 
 -----
 
