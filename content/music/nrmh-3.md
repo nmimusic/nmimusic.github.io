@@ -45,8 +45,7 @@ showActions: false
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRMH-3
 - 価格：￥1,200+消費税
-- ISDN：取得予定
-<!--- ISDN：[278-4-861670-09-8](https://isdn.jp/2784861670098)-->
+- ISDN：[278-4-861670-09-8](https://isdn.jp/2784861670098)
 
 <!--
 <a href="https://nmimusic.booth.pm/items/7267743" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
@@ -62,7 +61,7 @@ showActions: false
 - 価格：￥1,700+消費税
 - ISDN：取得予定
 - スペック：2.8MHz デルタシグマPDM
-<!--- ISDN：[278-4-861670-04-3](https://isdn.jp/2784861670043)-->
+- ISDN：[278-4-861670-04-3](https://isdn.jp/2784861670043)
 
 <!--
 <a href="https://nmimusic.booth.pm/items/6308487" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
@@ -76,7 +75,7 @@ showActions: false
 - 品番：NRDH-5
 - 価格：￥1,200+消費税
 
-<!--
 <a href="https://jinasanami.bandcamp.com/album/exsultatio" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>
+<!--
 <a href="https://www.dlsite.com/home/work/=/product_id/RJxxxx.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
 -->
