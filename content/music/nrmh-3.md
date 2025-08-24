@@ -59,9 +59,8 @@ showActions: false
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRGH-2
 - 価格：￥1,700+消費税
-- ISDN：取得予定
+- ISDN：[278-4-861670-10-4](https://isdn.jp/2784861670104)
 - スペック：2.8MHz デルタシグマPDM
-- ISDN：[278-4-861670-04-3](https://isdn.jp/2784861670043)
 
 <!--
 <a href="https://nmimusic.booth.pm/items/6308487" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
