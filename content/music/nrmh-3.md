@@ -73,4 +73,4 @@ showActions: false
 
 <a href="https://jinasanami.bandcamp.com/album/exsultatio" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=3218343" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
-<a href="https://www.dlsite.com/home/announce/=/product_id/RJ01350054.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
+<a href="https://www.dlsite.com/home/announce/=/product_id/RJ01457234.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
