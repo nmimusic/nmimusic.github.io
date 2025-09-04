@@ -49,7 +49,7 @@ showActions: false
 
 <!--
 <a href="https://nmimusic.booth.pm/items/7267743" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
-<a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
+<a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=3218111" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
 -->
 
 ## DSDディスク
@@ -76,5 +76,6 @@ showActions: false
 
 <a href="https://jinasanami.bandcamp.com/album/exsultatio" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>
 <!--
+<a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
 <a href="https://www.dlsite.com/home/work/=/product_id/RJxxxx.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
 -->
