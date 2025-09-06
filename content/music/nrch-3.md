@@ -38,6 +38,20 @@ showActions: false
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2158484388&color=%23384454&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hayatehay" title="Jin Asanami / 麻浪迅" target="_blank" style="color: #cccccc; text-decoration: none;">Jin Asanami / 麻浪迅</a> · <a href="https://soundcloud.com/hayatehay/exsultatio-xfade-demo" title="Mini Album「Exsultatio」Crossfade Demo" target="_blank" style="color: #cccccc; text-decoration: none;">Mini Album「Exsultatio」Crossfade Demo</a></div>
 
 # 購入
+## CDエクストラ
+{{< figure src="/img/discography/nr/jacket/nrch-3.png" alt="CD+" position="center">}}
+
+- 発売日：2025年3月5日
+- レーベル：ナカムラミュージックレコーズ
+- 品番：NRCH-2
+- 価格：￥1,500+消費税
+- ISDN：取得予定
+<!--- ISDN：[278-4-861670-07-4](https://isdn.jp/2784861670128)-->
+
+<a href="https://nmimusic.booth.pm/items/7393888" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+
+※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
+
 ## ミュージックカード
 {{< figure src="/img/discography/nr/jacket/nrmh-3.png" alt="card" position="center">}}
 
@@ -46,7 +60,6 @@ showActions: false
 - 品番：NRMH-3
 - 価格：￥1,200+消費税
 - ISDN：[278-4-861670-09-8](https://isdn.jp/2784861670098)
-
 
 <a href="https://nmimusic.booth.pm/items/7267743" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=3218111" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
