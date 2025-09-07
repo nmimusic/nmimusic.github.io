@@ -26,7 +26,7 @@ showActions: false
 # 仕様
 - メディア：
     - Professional：DVD-ROM DL 12cm 1枚
-    - Standard：ISOイメージ 約5GB
+    - Standard：ISOイメージ 約6GB
 - CPU：AMD64/Intel64 512GHz以上
 - RAM：512MB（1024MB以上推奨）
 - VRAM：128MB（256MB以上推奨）
