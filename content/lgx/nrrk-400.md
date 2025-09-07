@@ -47,6 +47,8 @@ showActions: false
 
 30日間のインストールサポートが付属します。付属のユーザー登録用紙もご覧下さい。
 
+ソースコードは ```/usr/share/kamurikilinux/nrrk-400.src.tar.gz``` です。
+
 <a href="https://nmimusic.booth.pm/items/6478705" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
 
 ### 購入特典
