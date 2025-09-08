@@ -48,17 +48,4 @@ sudo apt upgrade
 
 30日間のインストールサポートが付属します。付属のユーザー登録用紙もご覧下さい。
 
-<a href="https://nmimusic.booth.pm/items/6478705" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
-
-### 購入特典
-NMI MUSIC STORE限定で、試聴用のCD-DAが付属します。内容は不定期で更新します。
-
-## Standard
-- 発売日：2025年5月31日
-- レーベル：中村音楽工業
-- 品番：NRRK-311S
-- 価格：無料
-
-ISOを2層式DVD±RやUSBメモリ（DDモード必須）へ焼いて下さい。
-
-<a href="https://sourceforge.net/projects/kamurikilinux/files/iso/cheetah/3.11/" target="_blank"><img src="/img/banner/sflogo.png" alt="SOURCE FORGE" width="200"></a>
+各種同人イベント限定で販売。
