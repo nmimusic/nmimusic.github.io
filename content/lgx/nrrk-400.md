@@ -26,8 +26,7 @@ showActions: false
 # 仕様
 - メディア：
     - Professional：DVD-ROM DL 12cm 1枚
-    - Standard：ISOイメージ 約6GB
-- CPU：AMD64/Intel64 512GHz以上
+- CPU：AMD64/Intel64 512MHz以上
 - RAM：512MB（1024MB以上推奨）
 - VRAM：128MB（256MB以上推奨）
 - 画面解像度：1280×720以上
@@ -45,21 +44,19 @@ showActions: false
 - 価格：3,000円+消費税
 - ISDN：[278-4-861670-11-1](https://isdn.jp/2784861670111)
 
-30日間のインストールサポートが付属します。付属のユーザー登録用紙もご覧下さい。
+~~30日間のインストールサポートが付属します。付属のユーザー登録用紙もご覧下さい。~~現在、販売体制を再構築中です。インストールサポートは廃止予定ですが、送付してある分のコードはご利用頂けます。
 
-ソースコードは ```/usr/share/kamurikilinux/nrrk-400.src.tar.gz``` です。
+クリエイター向けパッケージ、様々なフォントを同梱。
 
-<a href="https://nmimusic.booth.pm/items/6478705" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+ソースコードは ```/usr/share/kamurikilinux/nrrk-400.src.tar.gz``` に配置。
 
-### 購入特典
-NMI MUSIC STORE限定で、試聴用のCD-DAが付属します。内容は不定期で更新します。
+各種同人イベント限定で販売。
 
 ## Standard
-- 発売日：2025年9月7日
+- 発売日：未定
 - レーベル：中村音楽工業
 - 品番：NRRK-400S
-- 価格：無料
+- 価格：1,500円+消費税
+- ISDN：取得予定
 
-ISOを2層式DVD±RやUSBメモリ（DDモード必須）へ焼いて下さい。
-
-<a href="https://sourceforge.net/projects/kamurikilinux/files/iso/deer/" target="_blank"><img src="/img/banner/sflogo.png" alt="SOURCE FORGE" width="200"></a>
+ソースコードは ```/usr/share/kamurikilinux/nrrk-400s.src.tar.gz``` に配置。
