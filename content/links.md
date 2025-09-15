@@ -3,7 +3,6 @@ title: LINKS
 ---
 
 # NMIによるOSSプロジェクト
-- [Alis Linux/GNU/X](https://alislinux.github.io/)
 - [Kamuriki Linux](https://w.atwiki.jp/kamurikilinux/)
 - [UniFetch](https://github.com/nmimusic/unifetch)
 - [Nako](https://github.com/nmimusic/nako)
@@ -11,9 +10,10 @@ title: LINKS
 
 # NMIのSNSアカウント
 - [NMI公式Misskey @nmimusic@misskey.design](https://misskey.design/@nmimusic)
-- [ナカムラ・レーベル公式Misskey @nakamuramusicrecords@otoskey.tarbin.net](https://otoskey.tarbin.net/@nakamuramusicrecords)
-- [ルリタニア・レーベル公式Misskey @nmimusic@misskey.doujin.games](https://misskey.doujin.games/@nmimusic)
+- [ナカムラミュージック公式Misskey @nakamuramusicrecords@otoskey.tarbin.net](https://otoskey.tarbin.net/@nakamuramusicrecords)
+- [ルリタニア公式Misskey @nmimusic@misskey.doujin.games](https://misskey.doujin.games/@nmimusic)
 - [Kamuriki Linux公式Misskey @njblinux@mastodon.social](https://mastodon.social/@njblinux)
+- [NMI公式エックス @nmimusic_japan](https://x.com/@nmimusic_japan)
 - [NMI公式Bluesky @nmimusic.bsky.social](https://bsky.app/profile/nmimusic.bsky.social)
 - [YouTube NMIチャンネル](https://www.youtube.com/@nmi_music_official)
 - [GitHub @nmimusic](https://github.com/nmimusic)
