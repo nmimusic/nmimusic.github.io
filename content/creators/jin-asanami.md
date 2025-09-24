@@ -13,7 +13,7 @@ showMeta: true
 showActions: false
 ---
 
-{{< figure src="/img/creator/hayate.jpg" alt="Jin Asanami" position="left" width="240" height="240" >}}
+{{< figure src="/img/creator/jinasanami.png" alt="Jin Asanami" position="left" width="240" height="240" >}}
 
 2月1日生まれ / A型 / 長野県出身 / COMPOSER, WRITER & PROGRAMMER
 
@@ -34,5 +34,3 @@ showActions: false
 - [サウンドクラウド](https://soundcloud.com/hayatehay)
 - [YouTube](https://youtube.com/@jinasanamiofficial)
 - [エックス](https://x.com/@hayatehay)
-- [Skeb](https://skeb.jp/@hayatehay)
-
