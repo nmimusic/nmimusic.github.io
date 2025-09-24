@@ -1,6 +1,6 @@
 ---
 title: '麻浪迅 / JIN ASANAMI'
-banner: /img/creator/hayate.jpg
+banner: /img/creator/jinasanami.png
 draft: false
 categories:
 - Creators
