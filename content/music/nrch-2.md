@@ -34,24 +34,6 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2035732172&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hayatehay" title="Jin Asanami / 麻浪迅" target="_blank" style="color: #cccccc; text-decoration: none;">Jin Asanami / 麻浪迅</a> · <a href="https://soundcloud.com/hayatehay/alma-airu-crossfade-demo" title="Single「Alma/哀流」Crossfade Demo" target="_blank" style="color: #cccccc; text-decoration: none;">Single「Alma/哀流」Crossfade Demo</a></div>
 
 # 購入
-## CDエクストラ
-{{< figure src="/img/discography/nr/jacket/nrch-2.png" alt="CD+" position="center">}}
-
-- 発売日：2025年3月5日
-- レーベル：ナカムラミュージックレコーズ
-- 品番：NRCH-2
-- 価格：￥1,000+消費税
-- ISDN：[278-4-861670-07-4](https://isdn.jp/2784861670074)
-
-<a href="https://nmimusic.booth.pm/items/6605148" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
-
-※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
-
-### おまけデータ
-- FLAC 全曲分(48kHz/24bit)
-- DSF 全曲分(2.8MHz)
-- ライナーノーツ(TXT形式)
-
 ## ミュージックカード
 {{< figure src="/img/discography/nr/jacket/nrmh-2.png" alt="カード" position="center">}}
 
@@ -62,6 +44,24 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 - ISDN：[278-4-861670-08-1](https://isdn.jp/2784861670081)
 
 <a href="https://nmimusic.booth.pm/items/6605491" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+
+## CDエクストラ
+{{< figure src="/img/discography/nr/jacket/nrch-2.png" alt="CD+" position="center">}}
+
+- 発売日：2025年3月5日
+- レーベル：ナカムラミュージックレコーズ
+- 品番：NRCH-2
+- 価格：￥1,000+消費税
+- ISDN：[278-4-861670-07-4](https://isdn.jp/2784861670074)
+
+<a href="https://nmimusic.booth.pm/items/6605491" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+
+※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
+
+### おまけデータ
+- FLAC 全曲分(48kHz/24bit)
+- DSF 全曲分(2.8MHz)
+- ライナーノーツ(TXT形式)
 
 ## ダウンロード
 - 発売日：2024年3月5日

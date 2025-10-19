@@ -67,7 +67,7 @@ showActions: false
     - 音声：96kHz/24bit リニアPCM 2ch
     - 映像：MPEG-2 カラー 16:9  NTSC-J
 
-<a href="https://nmimusic.booth.pm/items/6320823" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/5865685" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
 
 ※ハイブリッドDVDオーディオ：DVDビデオプレイヤーでも再生可能なDVDオーディオ・ディスク。
 
@@ -81,7 +81,7 @@ showActions: false
 - ISDN：[278-4-861670-04-3](https://isdn.jp/2784861670043)
 - スペック：2.8MHz デルタシグマPDM
 
-<a href="https://nmimusic.booth.pm/items/6308487" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/5865685" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
 
 ※DSDディスク：DSFデルタシグマPDM方式で音声を記録したDVD-ROM。[再生可能な機器一覧](https://nmimusic.github.io/dsd-disc-compatible-list)もご覧下さい。
 
