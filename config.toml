@@ -26,6 +26,7 @@ theme = 'universal'
 	logo = "/img/logo.png"
 	logo_small = "/img/logo.png"
 
+	capitalizeListTitles = false
 	pluralizeListTitles = false
 	preserveTaxonomyNames = true
 

@@ -50,7 +50,7 @@ showActions: false
 
 <a href="https://nmimusic.booth.pm/items/6478705/" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
 
-## Professional（4枚限定生産）
+## Professional（3枚限定生産）
 - 発売日：2025年11月1日
 - レーベル：中村音楽工業
 - 品番：NRRK-401
