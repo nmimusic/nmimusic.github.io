@@ -40,6 +40,8 @@ showActions: false
 ## CDエクストラ
 {{< figure src="/img/discography/nr/jacket/nrch-1.png" alt="CD+" position="center">}}
 
+**※2025年10月31日でロットアップし、以降は在庫限りの販売です。**
+
 - 発売日：2024年7月7日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRCH-1
@@ -50,6 +52,19 @@ showActions: false
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
 
 ※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
+
+<!--
+## ミュージック・カード
+{{< figure src="/img/discography/nr/jacket/nrmh-4.png" alt="Card" position="center">}}
+
+- 発売日：2025年11月以降
+- レーベル：ナカムラミュージックレコーズ
+- 品番：NRMH-4
+- 価格：￥1,200+消費税
+- ISDN：取得予定
+
+<a href="https://nmimusic.booth.pm/items/5865685" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+-->
 
 ### おまけデータ
 - FLAC 全曲分(48kHz/24bit)

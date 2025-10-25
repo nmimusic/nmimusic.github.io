@@ -50,7 +50,7 @@ showActions: false
 <a href="https://nmimusic.booth.pm/items/7267743" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=3218111" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
 
-## CDエクストラ
+## CDエクストラ（5枚限定生産）
 {{< figure src="/img/discography/nr/jacket/nrch-3.png" alt="CD+" position="center">}}
 
 - 発売日：2025年9月26日
