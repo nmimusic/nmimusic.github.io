@@ -1,6 +1,6 @@
 ---
 title: '麻浪迅「9inth Story」'
-date: 2024-05-01T10:00:00+09:00
+date: 2025-05-01T10:00:00+09:00
 draft: false
 categories:
 - Music
