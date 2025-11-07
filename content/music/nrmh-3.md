@@ -24,11 +24,11 @@ showActions: false
 全てが噛み合う時、「トランス・ジャズ」への扉は開かれる。 
 
 # 収録曲順
-1. Diver In The Town
-2. Liquido
-3. Luna Nuova
-4. この気持ちに名前を付けるなら
-5. Exsultatio
+1. Diver In The Town (6:20)
+2. Liquido (7:16)
+3. Luna Nuova (4:46)
+4. この気持ちに名前を付けるなら (4:52)
+5. Exsultatio (6:25)
 
 # スタッフ
 - 作編曲/マスタリング: 麻浪迅
