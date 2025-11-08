@@ -40,7 +40,7 @@ showActions: false
 ## CDエクストラ
 {{< figure src="/img/discography/nr/jacket/nrch-1.png" alt="CD+" position="center">}}
 
-**※2025年10月31日でロットアップし、以降は在庫限りの販売です。**
+**※2025年10月31日でロットアップし、以降は在庫限りの販売です。メロンブックスでの販売は、2025年11月で終了します。**
 
 - 発売日：2024年7月7日
 - レーベル：ナカムラミュージックレコーズ
@@ -55,11 +55,11 @@ showActions: false
 
 <!--
 ## ミュージック・カード
-{{< figure src="/img/discography/nr/jacket/nrmh-4.png" alt="Card" position="center">}}
+{{< figure src="/img/discography/nr/jacket/nrmh-5.png" alt="Card" position="center">}}
 
 - 発売日：2025年11月以降
 - レーベル：ナカムラミュージックレコーズ
-- 品番：NRMH-4
+- 品番：NRMH-5
 - 価格：￥1,200+消費税
 - ISDN：取得予定
 
