@@ -1,3 +1,3 @@
 ---
-title: 'Games'
+title: 'ゲーム作品'
 ---

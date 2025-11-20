@@ -4,15 +4,15 @@ date: 2025-09-06
 banner: /img/discography/others/nrrk-400.png
 draft: false
 categories:
-- Linux
+- Others
 tags:
-- KamurikiLinux
+- Linux
 comments: false
 showMeta: true
 showActions: false
 ---
 
-{{< figure src="/img/discography/others/nrrk-400.png" alt="RURH-1" position="left" width="600" >}}
+{{< figure src="/img/discography/others/nrrk-400.png" alt="RURH-1" position="left" width="300" >}}
 
 新生Kamuriki Linux 第2弾が遂に登場！
 

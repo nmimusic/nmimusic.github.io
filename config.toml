@@ -10,7 +10,7 @@ theme = 'universal'
 	viewMorePostLink = ["/news/"]
 	author = "NAKAMURA MUSICAL INDUSTRIES"
 	defaultKeywords = ["中村音楽工業", "中村音工", "NMI", "同人音楽"]
-	mainSections = ["news", "blog", "music", "games", "lgx", "creators", "support"]
+	mainSections = ["news", "blog", "music", "games", "others", "creators", "support"]
 
 	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト。所属クリエイターのお知らせや新譜の発売情報、ゲーム、イベント出演情報、メディア情報などを掲載。</p>"
 	copyright = "Copyright (C) 2023-2025 NAKAMURA MUSICAL INDUSTRIES (NMI) all rights reserved."
@@ -68,9 +68,9 @@ theme = 'universal'
 	title = "games"
 	hide_summary = false
 
-[params.recent_lgx]
+[params.recent_others]
 	enable = true
-	title = "linux/gnu/x distros"
+	title = "others"
 	hide_summary = false
 
 [params.recent_support]
@@ -121,8 +121,8 @@ theme = 'universal'
 	parent     = "menu.releases"
 
 [[menu.main]]
-	name       = "Linux/GNU/X"
-	url        = "/lgx/"
+	name       = "Others"
+	url        = "/others/"
 	weight     = 3
 	parent     = "menu.releases"
 

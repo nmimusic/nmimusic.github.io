@@ -4,9 +4,9 @@ date: 2025-06-01T12:00:00+09:00
 banner: /img/discography/others/kamu-logo.png
 draft: false
 categories:
-- Linux
+- Others
 tags:
-- KamurikiLinux
+- Linux
 comments: false
 showMeta: true
 showActions: false
