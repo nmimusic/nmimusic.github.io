@@ -40,7 +40,7 @@ showActions: false
 ## CDエクストラ
 {{< figure src="/img/discography/nr/jacket/nrch-1.png" alt="CD+" position="center">}}
 
-**※2025年10月31日でロットアップし、以降は在庫限りの販売です。メロンブックスでの販売は、2025年11月で終了します。**
+**※2025年10月31日でロットアップし、以降は在庫限りの販売です。メロンブックスでの販売は、2025年11月で終了しました。**
 
 - 発売日：2024年7月7日
 - レーベル：ナカムラミュージックレコーズ
@@ -49,7 +49,6 @@ showActions: false
 - ISDN：[278-4-861670-01-2](https://isdn.jp/2784861670012)
 
 <a href="https://nmimusic.booth.pm/items/5865685" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
-<a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
 
 ※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
 

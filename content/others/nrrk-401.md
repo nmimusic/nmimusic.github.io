@@ -1,5 +1,5 @@
 ---
-title: 'Kamuriki Linux 4 Rollup 1'
+title: 'NMI Music Kamuriki Linux/GNU/X 4.1'
 date: 2025-09-06
 banner: /img/discography/others/nrrk-400.png
 draft: false
@@ -19,6 +19,9 @@ showActions: false
 - LXQtとKWinで、軽量なまま近代的な見た目と操作感を実現！
 - インストールしてすぐ使える！ウェブブラウザー、ワープロ、音楽再生など…。
 - ソフトウェアセンター「Discover」も引き続き搭載！マウス操作で簡単にソフトをインストールできる。コマンドが大好きな方は、より短いコマンド「Nako」で効率的にパッケージを操作できる。
+
+**※BOOTHでの販売は終了しました。今後は各種同人イベント限定で販売します。**
+**なお、Kamuriki LGX関連の業務は2026年内（ゲーム「癒やしたがりな彼女のいる日常」発売後を予定）に、NMI Music内部のレーベル「[ルリタニアミュージックエンターテインメント](/tags/ルリタニアミュージックエンターテインメント)」に移行します。**
 
 # バージョン3からの更新について
 現在はまだ、更新はサポートしていません。[サポートページ](/support)にて随時更新致しますので、お待ち下さい。
@@ -47,18 +50,3 @@ showActions: false
 ウェブブラウザー、オフィススイート等基本的なソフトウェアがこれ1枚に。
 
 ソースコードは ```/usr/share/kamurikilinux/nrrk-401s.src.tar.gz``` に配置。
-
-<a href="https://nmimusic.booth.pm/items/6478705/" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
-
-## Professional（3枚限定生産）
-- 発売日：2025年11月1日
-- レーベル：中村音楽工業
-- 品番：NRRK-401
-- 価格：2,000円+消費税
-- ISDN：[278-4-861670-11-1](https://isdn.jp/2784861670111)
-
-クリエイター向けパッケージ、様々なフォントを同梱。
-
-ソースコードは ```/usr/share/kamurikilinux/nrrk-401.src.tar.gz``` に配置。
-
-<a href="https://nmimusic.booth.pm/items/6478705/" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>

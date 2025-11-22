@@ -16,7 +16,8 @@ showActions: false
 
 Kamuriki Linuxはバージョン3から、Debianベースに生まれ変わった。しかし見た目はそのままで、使い易さも変わらない。
 
-最新バージョン：3.12
+**※BOOTHでの販売は終了しました。今後は各種同人イベント限定で販売します。**
+**なお、Kamuriki LGX関連の業務は2026年内（ゲーム「癒やしたがりな彼女のいる日常」発売後を予定）に、NMI Music内部のレーベル「[ルリタニアミュージックエンターテインメント](/tags/ルリタニアミュージックエンターテインメント)」に移行します。**
 
 # 仕様
 - メディア：
@@ -34,25 +35,11 @@ Kamuriki Linuxはバージョン3から、Debianベースに生まれ変わっ�
 
 # 購入
 ## Standard
-- 発売日：2025年11月中旬
+- 発売日：2025年12月中旬
 - レーベル：中村音楽工業
-- 品番：NRRK-401S
+- 品番：NRRK-312S
 - 価格：1,500円+消費税
 
 ウェブブラウザー、オフィススイート等基本的なソフトウェアがこれ1枚に。
 
 ソースコードは ```/usr/share/kamurikilinux/nrrk-312s.src.tar.gz``` に配置。
-
-<!--<a href="https://nmimusic.booth.pm/items/6478705/" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>-->
-
-## Professional（限定生産予定）
-- 発売日：2025年11月中旬
-- レーベル：中村音楽工業
-- 品番：NRRK-312
-- 価格：2,000円+消費税
-
-クリエイター向けパッケージ、様々なフォントを同梱。
-
-ソースコードは ```/usr/share/kamurikilinux/nrrk-312.src.tar.gz``` に配置。
-
-<!--<a href="https://nmimusic.booth.pm/items/6478705/" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>-->
