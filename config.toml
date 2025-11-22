@@ -50,32 +50,32 @@ theme = 'universal'
 
 [params.recent_news]
 	enable = true
-	title = "news"
+	title = "NEWS"
 	hide_summary = false
 
 [params.recent_blog]
 	enable = true
-	title = "blog"
+	title = "BLOG"
 	hide_summary = false
 
 [params.recent_music]
 	enable = true
-	title = "music"
+	title = "MUSIC"
 	hide_summary = false
 
 [params.recent_games]
 	enable = true
-	title = "games"
+	title = "GAMES"
 	hide_summary = false
 
 [params.recent_others]
 	enable = true
-	title = "others"
+	title = "OTHERS"
 	hide_summary = false
 
 [params.recent_support]
 	enable = true
-	title = "support"
+	title = "SUPPORT"
 	hide_summary = false
 
 [params.footer.recent_posts]
