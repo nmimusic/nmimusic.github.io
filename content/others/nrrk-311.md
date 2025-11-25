@@ -1,5 +1,5 @@
 ---
-title: 'Kamuriki Linux 3 Rollup 12'
+title: 'NMI Music Kamuriki Linux/GNU/X 3.12
 date: 2025-06-01T12:00:00+09:00
 banner: /img/discography/others/kamu-logo.png
 draft: false
@@ -16,8 +16,7 @@ showActions: false
 
 Kamuriki Linuxはバージョン3から、Debianベースに生まれ変わった。しかし見た目はそのままで、使い易さも変わらない。
 
-**※BOOTHでの販売は終了しました。今後は各種同人イベント限定で販売します。**
-**なお、Kamuriki LGX関連の業務は2026年内（ゲーム「癒やしたがりな彼女のいる日常」発売後を予定）に、NMI Music内部のレーベル「[ルリタニアミュージックエンターテインメント](/tags/ルリタニアミュージックエンターテインメント)」に移行します。**
+**※BOOTHでの販売は終了しました。今後は各種同人イベント限定で販売します。なお、Kamuriki LGX関連の業務は2026年内（ゲーム「癒やしたがりな彼女のいる日常」発売後を予定）に、NMI Music内部のレーベル「[ルリタニアミュージックエンターテインメント](/tags/ルリタニアミュージックエンターテインメント)」に移管します。**
 
 # 仕様
 - メディア：
