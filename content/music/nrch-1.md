@@ -40,7 +40,7 @@ showActions: false
 ## CDエクストラ
 {{< figure src="/img/discography/nr/jacket/nrch-1.png" alt="CD+" position="center">}}
 
-**※2025年10月31日でロットアップし、以降は在庫限りの販売です。メロンブックスでの販売は、2025年11月で終了しました。**
+**※2025年10月31日でロットアップし、以降は在庫限りの販売です。メロンブックスでの通信販売は、2025年11月で終了しました。**
 
 - 発売日：2024年7月7日
 - レーベル：ナカムラミュージックレコーズ
@@ -72,6 +72,8 @@ showActions: false
 ## DVDオーディオ
 {{< figure src="/img/discography/nr/jacket/nrah-1.png" alt="DVD" position="center">}}
 
+**※2025年12月3日でロットアップし、以降は在庫限りの販売です。**
+
 - 発売日：2024年12月7日
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRAH-1
@@ -87,6 +89,8 @@ showActions: false
 
 ## DSDディスク
 {{< figure src="/img/discography/nr/jacket/nrgh-1.png" alt="DSD" position="center">}}
+
+**※2025年12月3日でロットアップし、以降は在庫限りの販売です。**
 
 - 発売日：2024年12月7日
 - レーベル：ナカムラミュージックレコーズ
