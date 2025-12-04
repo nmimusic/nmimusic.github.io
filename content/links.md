@@ -12,10 +12,9 @@ title: LINKS
 - [NMI公式Misskey @nmimusic@misskey.design](https://misskey.design/@nmimusic)
 - [ナカムラミュージック公式Misskey @nakamuramusicrecords@otoskey.tarbin.net](https://otoskey.tarbin.net/@nakamuramusicrecords)
 - [ルリタニア公式Misskey @nmimusic@misskey.doujin.games](https://misskey.doujin.games/@nmimusic)
-- [Kamuriki Linux公式Misskey @njblinux@mastodon.social](https://mastodon.social/@njblinux)
-- [NMI公式エックス @nmimusic_japan](https://x.com/@nmimusic_japan)
-- [NMI公式Bluesky @nmimusic.bsky.social](https://bsky.app/profile/nmimusic.bsky.social)
-- [YouTube NMIチャンネル](https://www.youtube.com/@nmi_music_official)
+- [NMI公式エックス @nipponruritania](https://x.com/@nipponruritania)
+- [NMI公式Bluesky @nipponruritania.bsky.social](https://bsky.app/profile/nipponruritania.bsky.social)
+- [YouTube NMIチャンネル](https://www.youtube.com/@nipponruritania)
 - [GitHub @nmimusic](https://github.com/nmimusic)
 
 # 流通
