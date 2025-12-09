@@ -1,6 +1,6 @@
 ---
 title: '麻浪迅「月影」'
-date: 2024-06-30T00:00:00+09:00
+date: 2024-07-07T00:00:00+09:00
 lastmod: 2025-03-29T00:00:00+09:00
 banner: /img/discography/nr/tsukikage.png
 draft: false

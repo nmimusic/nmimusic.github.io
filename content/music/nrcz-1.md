@@ -1,6 +1,6 @@
 ---
 title: '麻浪迅「DEMO 2024 DEC」'
-date: 2024-12-15T00:00:00+09:00
+date: 2024-12-21T00:00:00+09:00
 lastmod: 2025-03-29T00:00:00+09:00
 banner: /img/discography/nr/demo-2024-dec.png
 draft: false

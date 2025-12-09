@@ -1,7 +1,6 @@
 ---
 title: '麻浪迅「Exsultatio」'
-date: 2025-08-24
-lastmod: 2025-09-06
+date: 2025-09-26T00:00:00+0900
 banner: /img/discography/nr/exsultatio.png
 categories:
 - Music

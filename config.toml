@@ -30,6 +30,8 @@ theme = 'universal'
 	pluralizeListTitles = false
 	preserveTaxonomyNames = true
 
+	buildFuture = true
+
 [markup.goldmark.renderer]
 	unsafe = true
 

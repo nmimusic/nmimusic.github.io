@@ -1,6 +1,6 @@
 ---
 title: '麻浪迅「幻聴インヴィテーション」'
-date: 2025-11-07T21:33:00+0900
+date: 2025-12-31T00:00:00+0900
 banner: /img/discography/nr/gencho.png
 categories:
 - Music
