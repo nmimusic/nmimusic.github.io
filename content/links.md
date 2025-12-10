@@ -2,12 +2,6 @@
 title: LINKS
 ---
 
-# NMIによるOSSプロジェクト
-- [Kamuriki Linux](https://w.atwiki.jp/kamurikilinux/)
-- [UniFetch](https://github.com/nmimusic/unifetch)
-- [Nako](https://github.com/nmimusic/nako)
-- [DebISO](https://github.com/nmimusic/debiso)
-
 # NMIのSNSアカウント
 - [NMI公式Misskey @nmimusic@misskey.design](https://misskey.design/@nmimusic)
 - [ナカムラミュージック公式Misskey @nakamuramusicrecords@otoskey.tarbin.net](https://otoskey.tarbin.net/@nakamuramusicrecords)
@@ -23,6 +17,9 @@ title: LINKS
     - [NMI MUSIC STORE](https://nmimusic.booth.pm/)
 - [メロンブックス](https://melonbooks.co.jp/)
     - [ナカムラミュージックレコーズ](https://www.melonbooks.co.jp/circle/index.php?circle_id=67559)
+- [Bandcamp](https://bandcamp.com)
+- [DLsite](https://www.dlsite.com/)
+    - [中村音楽工業](https://www.dlsite.com/home/circle/profile/=/maker_id/RG01040737.html)
 
 # ソフトハウス様
 ## あ行
