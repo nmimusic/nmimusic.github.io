@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /tags/kamurikilinux/
+Disallow: /lgx/
+Disallow: /others/nrrk-*/
+
+Sitemap: https://www.example.com/sitemap.xml
