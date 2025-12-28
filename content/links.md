@@ -2,13 +2,13 @@
 title: LINKS
 ---
 
-# NMIのSNSアカウント
-- [NMI公式Misskey @nmimusic@misskey.design](https://misskey.design/@nmimusic)
+# RURITANIAのSNSアカウント
+- [RURITANIA公式Misskey @nmimusic@misskey.design](https://misskey.design/@nmimusic)
 - [ナカムラミュージック公式Misskey @nakamuramusicrecords@otoskey.tarbin.net](https://otoskey.tarbin.net/@nakamuramusicrecords)
-- [ルリタニア公式Misskey @nmimusic@misskey.doujin.games](https://misskey.doujin.games/@nmimusic)
-- [NMI公式エックス @nipponruritania](https://x.com/@nipponruritania)
-- [NMI公式Bluesky @nipponruritania.bsky.social](https://bsky.app/profile/nipponruritania.bsky.social)
-- [YouTube NMIチャンネル](https://www.youtube.com/@nipponruritania)
+- [ルリタニアミュージック公式Misskey @nmimusic@misskey.doujin.games](https://misskey.doujin.games/@nmimusic)
+- [RURITANIA公式エックス @nipponruritania](https://x.com/@nipponruritania)
+- [RURITANIA公式Bluesky @nipponruritania.bsky.social](https://bsky.app/profile/nipponruritania.bsky.social)
+- [YouTube ルリタニア放送局](https://www.youtube.com/@nipponruritania)
 - [GitHub @nmimusic](https://github.com/nmimusic)
 
 # 流通
