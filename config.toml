@@ -12,7 +12,7 @@ theme = 'universal'
 	defaultKeywords = ["中村音楽工業", "中村音工", "NMI", "同人音楽", "日本ルリタニア"]
 	mainSections = ["news", "blog", "music", "games", "others", "creators", "support"]
 
-	about_us = "<p>同人クラブ「一般社団同人中村音楽工業」の公式サイト。所属クリエイターのお知らせや新譜の発売情報、ゲーム、イベント出演情報、メディア情報などを掲載。</p>"
+	about_us = "<p>一般社団同人中村音楽工業は、音楽制作を行なう長野県の同人クラブである。</p>"
 	copyright = "Copyright (C) 2023-2025 Nakamura Musical Industries/NIPPON RURITANIA all rights reserved."
 
 	# Format dates with Go's time formatting
