@@ -72,4 +72,5 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 - 価格：￥600+消費税
 
 <a href="https://jinasanami.bandcamp.com/album/alma-airu" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>
+<a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=3427761" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
 <a href="https://www.dlsite.com/home/work/=/product_id/RJ01350054.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
