@@ -44,7 +44,7 @@ showActions: false
 - 価格：￥1,100+消費税
 - ISDN：[278-4-861670-05-0](https://isdn.jp/2784861670050)
 
-<a href="https://nmimusic.booth.pm/items/6371255" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/6371255" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
 
 ※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
 

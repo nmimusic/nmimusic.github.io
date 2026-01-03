@@ -43,7 +43,7 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 - 価格：￥600+消費税
 - ISDN：[278-4-861670-08-1](https://isdn.jp/2784861670081)
 
-<a href="https://nmimusic.booth.pm/items/6605491" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/6605491" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
 
 ## CDエクストラ
 {{< figure src="/img/discography/nr/jacket/nrch-2.png" alt="CD+" position="center">}}
@@ -56,7 +56,7 @@ Alma=魂。1曲毎に魂を込める麻浪迅が贈る、スカ・ジャズが�
 - 価格：￥1,000+消費税
 - ISDN：[278-4-861670-07-4](https://isdn.jp/2784861670074)
 
-<a href="https://nmimusic.booth.pm/items/6605491" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/6605491" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
 
 ※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
 

@@ -41,7 +41,7 @@ EP「月影」収録の楽曲「朝焼け」を再編曲の上シングルカッ
 - 価格：￥400+消費税
 - ISDN：[278-4-861670-06-7](https://isdn.jp/2784861670067)
 
-<a href="https://nmimusic.booth.pm/items/6389085" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/6389085" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2878193" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
 
 ## ダウンロード

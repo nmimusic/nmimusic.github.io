@@ -46,7 +46,7 @@ showActions: false
 - 価格：￥1,200+消費税
 - ISDN：[278-4-861670-09-8](https://isdn.jp/2784861670098)
 
-<a href="https://nmimusic.booth.pm/items/7267743" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/7267743" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=3218111" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
 
 ## CDエクストラ（初期ロット5枚+イベントの度に増産）
@@ -58,7 +58,7 @@ showActions: false
 - 価格：￥1,500+消費税
 - ISDN：[278-4-861670-12-8](https://isdn.jp/2784861670128)
 
-<a href="https://nmimusic.booth.pm/items/7267743" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/7267743" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
 
 ※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
 
@@ -76,7 +76,7 @@ showActions: false
 - ISDN：[278-4-861670-10-4](https://isdn.jp/2784861670104)
 - スペック：2.8MHz デルタシグマPDM
 
-<a href="https://nmimusic.booth.pm/items/7267743" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/7267743" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
 
 ※DSDディスク：DSFデルタシグマPDM方式で音声を記録したDVD-ROM。[再生可能な機器一覧](https://nmimusic.github.io/dsd-disc-compatible-list)もご覧下さい。
 

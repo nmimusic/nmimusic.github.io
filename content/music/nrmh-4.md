@@ -44,4 +44,14 @@ showActions: false
 - レーベル：ナカムラミュージックレコーズ
 - 品番：NRMH-4
 - 価格：￥600+消費税
-- ISDN：[278-4-861670-135](https://isdn.jp/2784861670135)
+- ISDN：[278-4-861670-13-5](https://isdn.jp/2784861670135)
+
+<a href="https://nmimusic.booth.pm/items/7634881" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
+
+## ダウンロード
+- 発売日：2025年12月31日
+- レーベル：ナカムラミュージックレコーズ
+- 品番：NRDH-6
+- 価格：￥600+消費税
+
+<a href="https://jinasanami.bandcamp.com/album/gencho-invitation" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>

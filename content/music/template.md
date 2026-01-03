@@ -48,7 +48,7 @@ showActions: false
 - 価格：￥1,500+消費税
 - ISDN：[278-4-861670-xx-d](https://isdn.jp/2784861670xxd)
 
-<a href="https://nmimusic.booth.pm/items/5865685" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/5865685" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
 <a href="https://www.melonbooks.co.jp/detail/detail.php?product_id=2527472" target="_blank"><img src="/img/banner/melon_banner.gif" alt="メロンブックス"></a>
 
 ※CD-EXTRAについては、同梱の説明書及び[公式サイトの案内ページ](https://nmimusic.github.io/cdextra/)をご覧下さい。
@@ -68,7 +68,7 @@ CDエクストラの場合はこれも追記
     - 音声：96kHz/24bit リニアPCM 2ch
     - 映像：MPEG-2 カラー 16:9  NTSC-J
 
-<a href="https://nmimusic.booth.pm/items/6320823" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/6320823" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
 
 ※ハイブリッドDVDオーディオ：DVDビデオプレイヤーでも再生可能なDVDオーディオ・ディスク。
 
@@ -82,7 +82,7 @@ CDエクストラの場合はこれも追記
 - ISDN：[278-4-861670-04-3](https://isdn.jp/2784861670043)
 - スペック：2.8MHz リニアPDM
 
-<a href="https://nmimusic.booth.pm/items/6308487" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="NMI MUSIC STORE"></a>
+<a href="https://nmimusic.booth.pm/items/6308487" target="_blank"><img src="/img/banner/nmi_music_store.png" alt="RURITANIA MUSIC STORE"></a>
 
 ※DSDディスク：DSFリニアPDM方式で音声を記録したDVD-ROM。[再生可能な機器一覧](https://nmimusic.github.io/dsd-disc-compatible-list)もご覧下さい。
 
