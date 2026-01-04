@@ -8,12 +8,12 @@ theme = 'universal'
 
 [params]
 	viewMorePostLink = ["/news/"]
-	author = "NAKAMURA MUSICAL INDUSTRIES/NIPPON RURITANIA"
-	defaultKeywords = ["中村音楽工業", "中村音工", "NMI", "同人音楽", "日本ルリタニア"]
+	author = "Nippon Ruritania"
+	defaultKeywords = ["中村音楽工業", "中村音工", "RURITANIA", "同人音楽", "日本ルリタニア"]
 	mainSections = ["news", "blog", "music", "games", "others", "creators", "support"]
 
 	about_us = "<p>一般社団同人中村音楽工業は、音楽制作を行なう長野県の同人クラブである。</p>"
-	copyright = "Copyright (C) 2023-2025 Nakamura Musical Industries/NIPPON RURITANIA all rights reserved."
+	copyright = "Copyright (C) 2023-2026 Nakamura Musical Industries/NIPPON RURITANIA all rights reserved."
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
