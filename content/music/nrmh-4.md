@@ -55,3 +55,7 @@ showActions: false
 - 価格：￥600+消費税
 
 <a href="https://jinasanami.bandcamp.com/album/gencho-invitation" target="_blank"><img src="/img/banner/bandcamp.png" alt="Bandcamp"></a>
+<a href="https://www.dlsite.com/home/announce/=/product_id/RJ01527608.html" target="_blank"><img src="/img/banner/dlsite.jpg" alt="DLsite"></a>
+
+※DLsite、メロンブックスは2026年2月1日配信開始予定
+
