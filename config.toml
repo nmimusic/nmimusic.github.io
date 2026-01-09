@@ -3,7 +3,7 @@ languageCode = 'ja-jp'
 languageName = 'Japanese'
 defaultContentLanguage = 'ja'
 hasCJKLanguage = true
-title = '中村音楽工業'
+title = 'Nippon Ruritania 中村音楽工業'
 theme = 'universal'
 
 [params]
@@ -21,7 +21,7 @@ theme = 'universal'
 	dropdown_mouse_over = false
 
 	disabled_logo = false
-	logo_text = "NIPPON RURITANIA/NMIMusic"
+	logo_text = "NIPPON RURITANIA"
 
 	logo = "/img/logo.png"
 	logo_small = "/img/logo.png"
@@ -166,9 +166,27 @@ theme = 'universal'
 
 [[menu.main]]
 	name       = "SHOP"
+        url        = ""
 	identifier = "menu.shop"
-	url        = "https://nmimusic.booth.pm/"
 	weight     = 7
+
+[[menu.main]]
+        name       = "RURITANIA MUSIC STORE"
+        url        = "https://nmimusic.booth.pm/"
+        weight     = 1
+        parent     = "menu.shop"
+
+[[menu.main]]
+        name       = "Melon Books"
+        url        = "https://www.melonbooks.co.jp/"
+        weight     = 2
+        parent     = "menu.shop"
+
+[[menu.main]]
+        name       = "DLsite"
+        url        = "https://www.dlsite.com/home/"
+        weight     = 3
+        parent     = "menu.shop"
 
 [[menu.main]]
 	name       = "OTHERS"
