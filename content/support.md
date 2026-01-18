@@ -22,19 +22,3 @@ RMEから発売されるゲームは、エンジンに「吉里吉里SDL2」を�
     - Windows(R) 11 日本語版
 
 32ビットバイナリや、MacOS、BSDなど他のOSでの動作はサポートされません。
-
----
-# Kamuriki LGX 3.7 GPG鍵の更新
-2024年9月10日
-
-GPG鍵の更新が行なわれました。新しい鍵は「```BDB9 5A53 1AF1 0907 EEDA CA9C 413E A564 B814 D95B```」です。
-以下の手順で更新をして下さい。
-
-(環境によってコマンド欄の表示が乱れる場合があります)
-
-```bash
-curl -fsSL https://sourceforge.net/projects/kamurikilinux/files/kamuriki-archive.key|sudo gpg -o /etc/apt/trusted.gpg.d/kamuriki-archive.gpg --dearmor
-sudo apt update
-```
-
-近日公開予定のバージョン3.7以降は、この鍵が追加されます。

@@ -37,7 +37,7 @@ theme = 'universal'
 
 [params.topbar]
 	enable = true
-	text = """<a href="/text/index.htm">w3m、Lynx等でご覧の方はこちら"""
+	text = """<a href="/text/index.htm">w3m、Lynx等でご覧の方はこちら</a>"""
 
 [params.widgets]
 	categories = true

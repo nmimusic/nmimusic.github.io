@@ -23,13 +23,10 @@ title: LINKS
 
 # ソフトハウス様
 ## あ行
-- [Arch Linux](https://archlinux.org/)
 - [あざらしそふと](http://azarashi-soft.nexton-net.jp/)
 - [Ablaze](https://ablaze.one)
 - [アリスソフト](http://www.alicesoft.com/)
-- [Alma Linux](https://almalinux.org/ja/)
 - [イープロダクツ](https://www.eeproduct.jp/)
-- [Ubuntu](https://jp.ubuntu.com/)
 - [エコールソフトウェア](https://e56.info)
 - [Escu:de](https://www.escude.co.jp/)
 - [OpenELA](https://openela.org)
@@ -49,10 +46,8 @@ title: LINKS
 
 ## た行
 - [Tactics](http://tactics.nexton-net.jp/)
-- [Debian](http://debian.org/)
 
 ## な行
-- [日本オラクル](https://www.oracle.com/jp/)
 - [NEXTON](https://nexton-net.jp/)
 - [ねこねこソフト](https://nekoneko-soft.info/)
 - [Norn](https://norn-soft.com/)
@@ -63,7 +58,6 @@ title: LINKS
 - [ビジュアルアーツ](https://visual-arts.jp/)
 - [VideoLAN](https://www.videolan.org/vlc)
 - [FascodeNetwork](https://fascode.net/)
-- [Fedora](https://getfedora.org/ja/)
 - [フロントウイング](http://frontwing.jp/)
 - [BaseSon](http://baseson.nexton-net.jp/)
 
@@ -75,6 +69,3 @@ title: LINKS
 - [ReactOS](https://reactos.org/)
 - [レッドハット](https://www.redhat.com/ja)
 - [LibreOffice](https://ja.libreoffice.org/)
-
-## わ行
-- [YK Developer Team](https://yk.rsw.jp/)
