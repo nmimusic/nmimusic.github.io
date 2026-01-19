@@ -37,4 +37,4 @@ showActions: false
 - [Mastodon(Fedibird)](https://fedibird.com/@hayatehay)
 - [サウンドクラウド](https://soundcloud.com/hayatehay)
 - [YouTube](https://youtube.com/@jinasanamiofficial)
-- [エックス](https://x.com/@hayatehay)
+- [エックス](https://x.com/@jinasanami)
