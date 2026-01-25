@@ -32,7 +32,7 @@ showActions: false
 ---
 
 ## ウェブサイト
-- [公式ウェブサイト](https://hayatehay.github.io)
+- [公式ウェブサイト](https://jinasanami.github.io)
 - [PrisMisskey](https://prismisskey.space/@jinasanami)
 - [Mastodon(Fedibird)](https://fedibird.com/@hayatehay)
 - [サウンドクラウド](https://soundcloud.com/hayatehay)
