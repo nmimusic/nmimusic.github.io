@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /tags/kamurikilinux/
+Disallow: /lgx/
+Disallow: /others/
+Disallow: /categories/linux/
+Disallow: /music/
+Disallow: /games/
+
+Sitemap: https://nmimusic.github.io/sitemap.xml

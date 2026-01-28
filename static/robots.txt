@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /tags/kamurikilinux/
-Disallow: /lgx/
-Disallow: /others/nrrk-*/
-Disallow: /categories/linux/
-
-Sitemap: https://nmimusic.github.io/sitemap.xml
